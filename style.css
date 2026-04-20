@@ -258,6 +258,10 @@ section > p {
   font-style: italic;
 }
 
+.entry p.disclosure a {
+  white-space: nowrap;
+}
+
 .pdf-link {
   margin-top: 2.5rem;
   font-size: 0.875rem;
@@ -355,13 +359,24 @@ footer p {
   }
 
   .masthead {
-    gap: 1.25rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
     margin-bottom: 3.5rem;
+  }
+
+  .masthead-text {
+    width: 100%;
   }
 
   .masthead-portrait {
     width: 80px;
     height: 100px;
+    order: -1;
+  }
+
+  .list .date {
+    margin-left: 0;
   }
 
   .masthead h1 {
