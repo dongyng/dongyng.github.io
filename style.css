@@ -359,24 +359,21 @@ footer p {
   }
 
   .masthead {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 1.5rem;
+    gap: 1.25rem;
     margin-bottom: 3.5rem;
-  }
-
-  .masthead-text {
-    width: 100%;
   }
 
   .masthead-portrait {
     width: 80px;
     height: 100px;
-    order: -1;
   }
 
   .list .date {
     margin-left: 0;
+  }
+
+  .nowrap-mobile {
+    white-space: nowrap;
   }
 
   .masthead h1 {
