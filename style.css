@@ -337,6 +337,11 @@ section > p {
   font-size: 0.875rem;
 }
 
+#contact p em {
+  color: #737373;
+  font-style: italic;
+}
+
 /* ---------- Footer ---------- */
 
 footer {
