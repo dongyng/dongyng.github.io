@@ -8,7 +8,7 @@ body {
 }
 
 main.reader {
-  max-width: 640px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 3rem 1.75rem 6rem;
 }
@@ -17,8 +17,9 @@ main.reader {
 
 .reader-back {
   margin-bottom: 3rem;
-  font-size: 0.8125rem;
+  font-size: 0.75rem;
   color: #737373;
+  letter-spacing: 0.005em;
 }
 
 .reader-back a {
@@ -34,23 +35,24 @@ main.reader {
 /* ---------- Article typography ---------- */
 
 .reader article {
-  color: #1f1f1f;
+  color: #262626;
 }
 
 .reader article h1 {
-  font-size: 1.875rem;
-  font-weight: 600;
+  font-size: 1.625rem;
+  font-weight: 500;
   line-height: 1.25;
-  letter-spacing: -0.015em;
-  margin: 0 0 0.6rem;
+  letter-spacing: -0.018em;
+  margin: 0 0 3rem;
   color: #171717;
 }
 
 .reader-meta {
-  font-size: 0.8125rem;
+  font-size: 0.75rem;
   color: #737373;
   margin: 0 0 3rem;
-  line-height: 1.4;
+  line-height: 1.5;
+  letter-spacing: 0.005em;
 }
 
 .reader-meta a {
@@ -64,25 +66,23 @@ main.reader {
 }
 
 .reader article h2 {
-  font-size: 1.25rem;
+  font-size: 1.0625rem;
   font-weight: 600;
   line-height: 1.35;
-  letter-spacing: -0.008em;
-  margin: 3rem 0 1.25rem;
+  letter-spacing: -0.005em;
+  margin: 2.75rem 0 1rem;
   color: #171717;
 }
 
 .reader article h2:first-of-type {
-  margin-top: 2rem;
+  margin-top: 0;
 }
 
 .reader article p {
-  font-size: 1rem;
-  line-height: 1.85;
-  margin: 0 0 1.3rem;
-  color: #262626;
-  /* CJK text rendering hints */
-  text-spacing: normal;
+  font-size: 0.9375rem;
+  line-height: 1.7;
+  margin: 0 0 1rem;
+  color: #2a2a2a;
   word-break: normal;
 }
 
@@ -100,18 +100,19 @@ main.reader {
 }
 
 .reader article strong {
-  font-weight: 600;
+  font-weight: 500;
+  color: #171717;
 }
 
 /* ---------- Footnote reference (in-text superscript) ---------- */
 
 .reader article .footnote-ref {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   vertical-align: super;
   line-height: 0;
-  margin-left: 0.1rem;
+  margin-left: 0.15rem;
   border-bottom: none;
-  color: #525252;
+  color: #737373;
 }
 
 .reader article .footnote-ref:hover {
@@ -121,46 +122,46 @@ main.reader {
 /* ---------- Disclaimer footer ---------- */
 
 .reader-footer {
-  margin-top: 3.5rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid #e5e5e5;
-}
-
-.reader-footer p {
-  font-size: 0.8125rem;
-  line-height: 1.7;
-  color: #737373;
-  font-style: italic;
-  margin: 0 0 0.4rem;
-}
-
-/* ---------- Footnotes section ---------- */
-
-.reader-footnotes {
   margin-top: 3rem;
   padding-top: 1.5rem;
   border-top: 1px solid #e5e5e5;
 }
 
-.reader-footnotes-label {
+.reader-footer p {
   font-size: 0.75rem;
+  line-height: 1.65;
+  color: #737373;
+  font-style: italic;
+  margin: 0 0 0.35rem;
+}
+
+/* ---------- Footnotes section ---------- */
+
+.reader-footnotes {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e5e5e5;
+}
+
+.reader-footnotes-label {
+  font-size: 0.6875rem;
   font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.14em;
   color: #737373;
-  margin: 0 0 1.25rem;
+  margin: 0 0 1rem;
 }
 
 .reader-footnotes ol {
-  padding-left: 1.5rem;
+  padding-left: 1.25rem;
   margin: 0;
-  color: #404040;
+  color: #525252;
 }
 
 .reader-footnotes li {
-  font-size: 0.875rem;
-  line-height: 1.75;
-  margin: 0 0 1rem;
+  font-size: 0.8125rem;
+  line-height: 1.7;
+  margin: 0 0 0.875rem;
 }
 
 .reader-footnotes li p {
@@ -193,7 +194,7 @@ main.reader {
   }
 
   .reader article h1 {
-    font-size: 1.5rem;
+    font-size: 1.375rem;
   }
 
   .reader-meta {
@@ -201,12 +202,16 @@ main.reader {
   }
 
   .reader article h2 {
-    font-size: 1.125rem;
-    margin: 2.5rem 0 1rem;
+    font-size: 1rem;
+    margin: 2.25rem 0 0.875rem;
   }
 
   .reader article p {
-    font-size: 0.9375rem;
-    line-height: 1.8;
+    font-size: 0.875rem;
+    line-height: 1.7;
+  }
+
+  .reader-footnotes li {
+    font-size: 0.8125rem;
   }
 }
