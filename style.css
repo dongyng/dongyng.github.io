@@ -359,6 +359,16 @@ footer p {
 /* ---------- Responsive ---------- */
 
 @media (max-width: 600px) {
+  /* CJK-specific: reduce base size + open up line-height so Chinese
+     characters don't feel packed together on narrow screens */
+  html[lang="zh-CN"] {
+    font-size: 15px;
+  }
+
+  html[lang="zh-CN"] body {
+    line-height: 1.75;
+  }
+
   main {
     padding: 3.5rem 1.25rem 4rem;
   }
