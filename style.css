@@ -79,6 +79,14 @@ a:hover {
   color: #171717;
 }
 
+.masthead h1 .name-romanized {
+  font-size: 0.65em;
+  font-weight: 500;
+  color: #525252;
+  letter-spacing: -0.005em;
+  margin-left: 0.15em;
+}
+
 .masthead .tagline {
   margin: 0 0 0.6rem;
   font-size: 0.875rem;
