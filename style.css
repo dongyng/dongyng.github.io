@@ -364,6 +364,19 @@ footer p {
   margin: 0;
 }
 
+/* ---------- Chinese typography overrides ---------- */
+/* CJK has no italic convention — strip it on all Chinese pages */
+html[lang="zh-CN"] em,
+html[lang="zh-CN"] .entry .role,
+html[lang="zh-CN"] .entry .subtitle,
+html[lang="zh-CN"] .entry p.disclosure em,
+html[lang="zh-CN"] .section-intro,
+html[lang="zh-CN"] #contact p em,
+html[lang="zh-CN"] .reader-footer p,
+html[lang="zh-CN"] .reader article em {
+  font-style: normal;
+}
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 600px) {
