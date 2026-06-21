@@ -364,8 +364,8 @@ footer p {
   margin: 0;
 }
 
-/* ---------- Chinese typography overrides ---------- */
-/* CJK has no italic convention — strip it on all Chinese pages */
+/* ---------- CJK typography overrides ---------- */
+/* CJK (Chinese / Japanese) has no italic convention — strip it on those pages */
 html[lang="zh-CN"] em,
 html[lang="zh-CN"] .entry .role,
 html[lang="zh-CN"] .entry .subtitle,
@@ -373,20 +373,30 @@ html[lang="zh-CN"] .entry p.disclosure em,
 html[lang="zh-CN"] .section-intro,
 html[lang="zh-CN"] #contact p em,
 html[lang="zh-CN"] .reader-footer p,
-html[lang="zh-CN"] .reader article em {
+html[lang="zh-CN"] .reader article em,
+html[lang="ja"] em,
+html[lang="ja"] .entry .role,
+html[lang="ja"] .entry .subtitle,
+html[lang="ja"] .entry p.disclosure em,
+html[lang="ja"] .section-intro,
+html[lang="ja"] #contact p em,
+html[lang="ja"] .reader-footer p,
+html[lang="ja"] .reader article em {
   font-style: normal;
 }
 
 /* ---------- Responsive ---------- */
 
 @media (max-width: 600px) {
-  /* CJK-specific: reduce base size + open up line-height so Chinese
+  /* CJK-specific: reduce base size + open up line-height so Chinese/Japanese
      characters don't feel packed together on narrow screens */
-  html[lang="zh-CN"] {
+  html[lang="zh-CN"],
+  html[lang="ja"] {
     font-size: 15px;
   }
 
-  html[lang="zh-CN"] body {
+  html[lang="zh-CN"] body,
+  html[lang="ja"] body {
     line-height: 1.75;
   }
 
