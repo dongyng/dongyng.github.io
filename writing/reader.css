@@ -119,6 +119,21 @@ main.reader {
   color: #171717;
 }
 
+/* ---------- Inline callout / explanatory note ---------- */
+
+.reader-callout {
+  border-left: 2px solid #d4d4d4;
+  padding: 0.1rem 0 0.1rem 1.25rem;
+  margin: 2.25rem 0;
+}
+
+.reader article .reader-callout p {
+  font-size: 0.875rem;
+  line-height: 1.75;
+  color: #6e6e6e;
+  margin: 0;
+}
+
 /* ---------- Disclaimer footer ---------- */
 
 .reader-footer {
