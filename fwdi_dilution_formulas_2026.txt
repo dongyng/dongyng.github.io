@@ -1,0 +1,327 @@
+================================================================================
+FWDI FULLY-DILUTED SHARE-COUNT FORMULA RECONSTRUCTION
+Forward Industries, Inc. (Nasdaq: FWDI; CIK 0000038264)
+Six reference dates, Apr 15 – Jul 1, 2026
+================================================================================
+
+KEY DISCLOSURES TIMELINE:
+═══════════════════════════
+
+2026-02-12  10-Q (QE 2025-12-31) filed
+            → Cover: 83,139,037 common shares outstanding as of 2026-01-31
+            → Reserve: Pre-Funded Warrants 12,864,602; Other Warrants 13,376,388
+            → Anti-dilutive: Options 307,000; Warrants 13,495,000
+
+2026-03-08  Executive RSUs granted: Ryan Navi 382,085 + Georgia Quinn 293,911 = 675,996
+            Executive options: 323,303 @ $9.66; 323,303 @ $14.49; 50,000 @ $4.83
+            (granted 03-08; disclosed via 8-K 03-09 / Form 4s 03-10 & 03-12)
+
+2026-03-10  Director options: 400,000 @ $5.02 (Sangita Shah/Keith Johnson/Michael Pruitt; 8-K 03-13)
+
+2026-03-18  Multicoin repurchase: 6,164,324 shares @ ~$4.44 ($27.4M)
+            (8-K 03-19, Item 1.01)
+
+2026-03-31  Q1 2026 end. Treasury: 10,754,848 shares. Outstanding: 76,314,617.
+            Pre-Funded Warrants exercised: 600,000 (reserve → 12,264,602)
+            (NOT disclosed until 10-Q 05-14)
+
+2026-04-08  8-K: Mark Brazier appointed CFO effective 04-13 (no equity granted yet)
+
+2026-04-16  CFO equity grants (disclosed 04-17 8-K):
+            + 275,000 RSUs (4-year vesting)
+            + 137,500 options @ $9.18 (10yr, 4yr vest)
+            + 137,500 options @ $13.77 (10yr, 4yr vest)
+            + 275,000 PSUs (contingent – excluded)
+
+2026-04-30  Cover date for 10-Q: 74,679,699 common shares outstanding
+            Treasury subsequent event: +1,634,918 shares bought in April @ $4.53
+
+2026-05-01  S-8 filed: 8,724,667 shares registered for 2021 Plan (plan reserve; not new grants)
+
+2026-05-14  10-Q (QE 2026-03-31) filed
+            → Cover: 74,679,699 outstanding as of 04-30
+            → Reserve: Pre-Funded Warrants 12,264,602; Other Warrants 13,376,388
+            → 600,000 pre-funded warrants exercised in Q1 (known now)
+            → Galaxy $40M→$80M loan (NOT convertible; secured by fwdSOL)
+            → On Re Ltd investment $2.2M equity; $25M ONyc token commitment (no FWDI shares issued)
+
+2026-05-18  Form 4: Pyahm Samani distribution of 4,458,796 $0.01 warrants & 1,783,519 shares
+            from pooled vehicle (CHANGE IN BENEFICIAL OWNERSHIP ONLY – no new issuance/exercise)
+
+2026-05-19  Form 4: CEO purchase of 500 shares @ $4.16 (open market; immaterial)
+
+2026-06-10  8-K: Non-binding all-stock proposal to acquire Brera Holdings PLC (Jun 1)
+            → NO securities issued
+
+2026-06-16  8-K (a): Non-binding proposals to SkyAI and Solana Company (both declined)
+            → NO securities issued
+
+2026-06-16  8-K (b): Brera legal response re alleged 13(d) group
+            → NO securities issued
+
+THROUGH JUL 1, 2026: No additional SEC filings found. No new equity.
+"7.55M-SOL purchase financing": No SEC filing referencing this discovered through Jul 1.
+The Galaxy loan facility expanded to $80M by May 2026 – this is senior secured
+debt, NOT convertible. No equity component.
+
+═══════════════════════════════════════════════════════════════════════════
+COMPONENT TABLE (millions of shares, except strike prices)
+═══════════════════════════════════════════════════════════════════════════
+
+                         Baseline    Apr 15    May 1     May 15    Jun 1     Jun 15    Jul 1
+                         ~Mar 15     2026      2026      2026      2026      2026      2026
+                         ─────────   ───────   ───────   ───────   ───────   ───────   ───────
+COMMON SHARES (M):
+  Last cover as-of       Jan 31      Jan 31    Jan 31    Apr 30    Apr 30    Apr 30    Apr 30
+  Outstanding (M)        83.139037   76.974713 76.974713 74.679699 74.679699 74.679699 74.679699
+  Source                 10-Q 02-12  10-Q+8-K  10-Q+8-K  10-Q 05-14 10-Q 05-14 10-Q 05-14 10-Q 05-14
+
+RSUs (M):
+  Exec RSUs (Mar 8)      0.675996   0.675996  0.675996  0.675996  0.675996  0.675996  0.675996
+  CFO RSUs (Apr 16)      –          –         0.275     0.275     0.275     0.275     0.275
+  Total RSUs              0.675996   0.675996  0.950996  0.950996  0.950996  0.950996  0.950996
+
+STOCK OPTIONS (shares M / strike):
+  Legacy (307k @ $13.39) 0.307      0.307     0.307     0.307     0.307     0.307     0.307
+  Exec T1 (323k @ $9.66) 0.323303   0.323303  0.323303  0.323303  0.323303  0.323303  0.323303
+  Exec T2 (323k @ $14.49)0.323303   0.323303  0.323303  0.323303  0.323303  0.323303  0.323303
+  CFO old (50k @ $4.83)  0.05       0.05      0.05      0.05      0.05      0.05      0.05
+  Director (400k @$5.02) 0.4        0.4       0.4       0.4       0.4       0.4       0.4
+  CFO T1 (138k @ $9.18)  –          –         0.1375    0.1375    0.1375    0.1375    0.1375
+  CFO T2 (138k @ $13.77) –          –         0.1375    0.1375    0.1375    0.1375    0.1375
+  Total Options (M)       1.403606   1.403606  1.678606  1.678606  1.678606  1.678606  1.678606
+
+WARRANTS (shares M / strike):
+  $0.01 warrants          13.376388  13.376388 13.376388 13.376388 13.376388 13.376388 13.376388
+  Series B ($6.50)        0.111111   0.111111  0.111111  0.111111  0.111111  0.111111  0.111111
+  Legacy ($7.50)          0.0075     0.0075    0.0075    0.0075    0.0075    0.0075    0.0075
+  Pre-Funded ($0.00001)  12.864602  12.864602 12.864602 12.264602 12.264602 12.264602 12.264602
+  Total Warrants (M)     26.359601  26.359601 26.359601 25.759601 25.759601 25.759601 25.759601
+
+PSUs (excluded, contingent):
+  Exec PSUs (Mar 8)       0.881736   0.881736  0.881736  0.881736  0.881736  0.881736  0.881736
+  CFO PSUs (Apr 16)       –          –         0.275     0.275     0.275     0.275     0.275
+  Total PSUs excluded     0.881736   0.881736  1.156736  1.156736  1.156736  1.156736  1.156736
+
+Convertible debt: NONE at all nodes. Galaxy $80M loan is senior secured, non-convertible.
+
+NOTES:
+- Apr 15 common: 83.139037 − 6.164324 (Multicoin repurchase disclosed Mar 19)
+  = 76.974713. ~2.8M additional open-market repurchases occurred Jan 31–Mar 31
+  but were not disclosed until the May 14 10-Q.
+- May 1 common: same as Apr 15 (no new cover disclosure).
+- May 15 common: 74.679699 is the authoritative 10-Q cover number as of Apr 30,
+  fully reflecting ALL treasury activity through that date.
+- Pre-Funded Warrants: 600,000 exercised in Q1 2026 (known from May 14 10-Q).
+  For Apr 15/May 1 nodes, still at 12.864602 (not yet disclosed).
+- $0.01 warrants: NO exercises found. The May 18 Form 4 reflects a distribution
+  (change in beneficial ownership), not an exercise.
+- PSUs: 881,736 exec + 275,000 CFO = 1,156,736 total; ALL contingent on
+  performance conditions (SOL-per-share thresholds). Excluded per baseline logic.
+- Jun/Jul proposals (Brera/SkyAI/Solana): all-stock, non-binding, none consummated.
+  ZERO new securities.
+
+═══════════════════════════════════════════════════════════════════════════
+SIX FORMULAS (output in millions, ROUND 3 dp)
+═══════════════════════════════════════════════════════════════════════════
+
+=== NODE 1: April 15, 2026 (price cell = EG26) ===
+=ROUND(
+  76.974713 + N("Common: 83,139,037 (Jan 31, 10-Q) − 6,164,324 Multicoin repurchase (Mar 18, 8-K Mar 19); ~2.8M open-mkt buybacks not yet disclosed")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: Ryan Navi 382,085 + Georgia Quinn 293,911")
++ 0.307*MAX(EG26-13.39,0)/EG26 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG26-9.66,0)/EG26 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG26-14.49,0)/EG26 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG26-4.83,0)/EG26 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG26-5.02,0)/EG26 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 13.376388*MAX(EG26-0.01,0)/EG26 + N("$0.01 warrants (Advisor + Lead Investor) 13,376,388")
++ 0.111111*MAX(EG26-6.5,0)/EG26 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG26-7.5,0)/EG26 + N("Legacy warrants 7,500 @ $7.50")
++ 12.864602*MAX(EG26-0.00001,0)/EG26 + N("Pre-Funded Warrants 12,864,602 @ $0.00001 (600k exercise not yet disclosed)")
++ 0 + N("Executive PSUs excluded: 881,736, contingent")
++ 0 + N("Convertible debt, none; Galaxy $40M loan non-convertible")
+,3)
+
+=== NODE 2: May 1, 2026 (price cell = EG27) ===
+=ROUND(
+  76.974713 + N("Common: same as Apr 15; no new cover page disclosure through May 1")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: 675,996")
++ 0.275 + N("CFO RSUs granted 2026-04-16 (8-K Apr 17): Mark Brazier 275,000")
++ 0.307*MAX(EG27-13.39,0)/EG27 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG27-9.66,0)/EG27 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG27-14.49,0)/EG27 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG27-4.83,0)/EG27 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG27-5.02,0)/EG27 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 0.1375*MAX(EG27-9.18,0)/EG27 + N("CFO options 2026-04-16: 137,500 @ $9.18")
++ 0.1375*MAX(EG27-13.77,0)/EG27 + N("CFO options 2026-04-16: 137,500 @ $13.77")
++ 13.376388*MAX(EG27-0.01,0)/EG27 + N("$0.01 warrants 13,376,388")
++ 0.111111*MAX(EG27-6.5,0)/EG27 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG27-7.5,0)/EG27 + N("Legacy warrants 7,500 @ $7.50")
++ 12.864602*MAX(EG27-0.00001,0)/EG27 + N("Pre-Funded Warrants 12,864,602 @ $0.00001")
++ 0 + N("Executive PSUs 881,736 + CFO PSUs 275,000 = 1,156,736 excluded, contingent")
++ 0 + N("Convertible debt, none")
+,3)
+
+=== NODE 3: May 15, 2026 (price cell = EG28) ===
+=ROUND(
+  74.679699 + N("Common: 74,679,699 outstanding as of 2026-04-30 (10-Q cover, filed May 14)")
++ 0.675996 + N("Executive RSUs 675,996")
++ 0.275 + N("CFO RSUs 275,000 (Apr 16)")
++ 0.307*MAX(EG28-13.39,0)/EG28 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG28-9.66,0)/EG28 + N("Exec options 323,303 @ $9.66")
++ 0.323303*MAX(EG28-14.49,0)/EG28 + N("Exec options 323,303 @ $14.49")
++ 0.05*MAX(EG28-4.83,0)/EG28 + N("CFO options 50,000 @ $4.83")
++ 0.4*MAX(EG28-5.02,0)/EG28 + N("Director options 400,000 @ $5.02")
++ 0.1375*MAX(EG28-9.18,0)/EG28 + N("CFO options 137,500 @ $9.18")
++ 0.1375*MAX(EG28-13.77,0)/EG28 + N("CFO options 137,500 @ $13.77")
++ 13.376388*MAX(EG28-0.01,0)/EG28 + N("$0.01 warrants 13,376,388")
++ 0.111111*MAX(EG28-6.5,0)/EG28 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG28-7.5,0)/EG28 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG28-0.00001,0)/EG28 + N("Pre-Funded Warrants 12,264,602 @ $0.00001 (600k exercised Q1 2026, per 10-Q)")
++ 0 + N("PSUs 1,156,736 excluded, contingent")
++ 0 + N("Convertible debt, none; Galaxy $80M facility non-convertible senior secured")
+,3)
+
+=== NODE 4: June 1, 2026 (price cell = EG29) ===
+=ROUND(
+  74.679699 + N("Common: 74,679,699 as of Apr 30 (10-Q May 14); no newer disclosure through Jun 1")
++ 0.675996 + N("Executive RSUs 675,996")
++ 0.275 + N("CFO RSUs 275,000")
++ 0.307*MAX(EG29-13.39,0)/EG29 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG29-9.66,0)/EG29 + N("Exec options 323,303 @ $9.66")
++ 0.323303*MAX(EG29-14.49,0)/EG29 + N("Exec options 323,303 @ $14.49")
++ 0.05*MAX(EG29-4.83,0)/EG29 + N("CFO options 50,000 @ $4.83")
++ 0.4*MAX(EG29-5.02,0)/EG29 + N("Director options 400,000 @ $5.02")
++ 0.1375*MAX(EG29-9.18,0)/EG29 + N("CFO options 137,500 @ $9.18")
++ 0.1375*MAX(EG29-13.77,0)/EG29 + N("CFO options 137,500 @ $13.77")
++ 13.376388*MAX(EG29-0.01,0)/EG29 + N("$0.01 warrants 13,376,388 (May 18 Form 4 = distribution, not exercise)")
++ 0.111111*MAX(EG29-6.5,0)/EG29 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG29-7.5,0)/EG29 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG29-0.00001,0)/EG29 + N("Pre-Funded Warrants 12,264,602 @ $0.00001")
++ 0 + N("PSUs 1,156,736 excluded, contingent")
++ 0 + N("Convertible debt, none; Jun 10 Brera proposal all-stock, non-binding, no securities issued")
+,3)
+
+=== NODE 5: June 15, 2026 (price cell = EG30) ===
+=ROUND(
+  74.679699 + N("Common: 74,679,699 as of Apr 30; no newer disclosure through Jun 15")
++ 0.675996 + N("Executive RSUs 675,996")
++ 0.275 + N("CFO RSUs 275,000")
++ 0.307*MAX(EG30-13.39,0)/EG30 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG30-9.66,0)/EG30 + N("Exec options 323,303 @ $9.66")
++ 0.323303*MAX(EG30-14.49,0)/EG30 + N("Exec options 323,303 @ $14.49")
++ 0.05*MAX(EG30-4.83,0)/EG30 + N("CFO options 50,000 @ $4.83")
++ 0.4*MAX(EG30-5.02,0)/EG30 + N("Director options 400,000 @ $5.02")
++ 0.1375*MAX(EG30-9.18,0)/EG30 + N("CFO options 137,500 @ $9.18")
++ 0.1375*MAX(EG30-13.77,0)/EG30 + N("CFO options 137,500 @ $13.77")
++ 13.376388*MAX(EG30-0.01,0)/EG30 + N("$0.01 warrants 13,376,388")
++ 0.111111*MAX(EG30-6.5,0)/EG30 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG30-7.5,0)/EG30 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG30-0.00001,0)/EG30 + N("Pre-Funded Warrants 12,264,602 @ $0.00001")
++ 0 + N("PSUs 1,156,736 excluded, contingent")
++ 0 + N("Convertible debt, none")
+,3)
+
+=== NODE 6: July 1, 2026 (price cell = EG31) ===
+=ROUND(
+  74.679699 + N("Common: 74,679,699 as of Apr 30; last authoritative cover page through Jul 1")
++ 0.675996 + N("Executive RSUs 675,996")
++ 0.275 + N("CFO RSUs 275,000")
++ 0.307*MAX(EG31-13.39,0)/EG31 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG31-9.66,0)/EG31 + N("Exec options 323,303 @ $9.66")
++ 0.323303*MAX(EG31-14.49,0)/EG31 + N("Exec options 323,303 @ $14.49")
++ 0.05*MAX(EG31-4.83,0)/EG31 + N("CFO options 50,000 @ $4.83")
++ 0.4*MAX(EG31-5.02,0)/EG31 + N("Director options 400,000 @ $5.02")
++ 0.1375*MAX(EG31-9.18,0)/EG31 + N("CFO options 137,500 @ $9.18")
++ 0.1375*MAX(EG31-13.77,0)/EG31 + N("CFO options 137,500 @ $13.77")
++ 13.376388*MAX(EG31-0.01,0)/EG31 + N("$0.01 warrants 13,376,388")
++ 0.111111*MAX(EG31-6.5,0)/EG31 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG31-7.5,0)/EG31 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG31-0.00001,0)/EG31 + N("Pre-Funded Warrants 12,264,602 @ $0.00001")
++ 0 + N("PSUs 1,156,736 excluded, contingent")
++ 0 + N("Convertible debt, none; Jun 16 Brera/SkyAI/Solana proposals non-binding, no equity; no '7.55M SOL purchase' equity financing found in SEC filings through Jul 1")
+,3)
+
+═══════════════════════════════════════════════════════════════════════════
+SOURCE URLs
+═══════════════════════════════════════════════════════════════════════════
+
+10-Q (QE 2025-12-31, filed 2026-02-12):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826000960/forward_i10q-123125.htm
+  → Common 83,139,037 as of Jan 31, 2026; Pre-Funded reserve 12,864,602; Other warrants 13,376,388
+
+8-K (filed 2026-03-09, event Mar 3–8):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826001618/forward_8k.htm
+  → Reincorporation NY→TX; Executive RSU/option grants (Item 5.02)
+
+8-K (filed 2026-03-13, event Mar 10):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826001777/forward_8k.htm
+  → Director options: 400,000 @ $5.02
+
+8-K (filed 2026-03-19, event Mar 18):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/forward_8k.htm
+  → Multicoin repurchase: 6,164,324 shares @ ~$27.4M
+
+8-K (filed 2026-04-17, event Apr 16):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826003049/forward_8k.htm
+  → CFO Brazier: 275,000 RSUs + 275,000 options ($9.18/$13.77) + 275,000 PSUs
+
+10-Q (QE 2026-03-31, filed 2026-05-14):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826003917/forward_i10q-033126.htm
+  → Common 74,679,699 as of Apr 30; Pre-Funded 12,264,602; 600k PF exercised; Galaxy $80M
+
+S-8 (filed 2026-05-01):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826003419/forward_s8.htm
+  → 8,724,667 shares registered for 2021 Plan (reserve; no new grants)
+
+8-K (filed 2026-06-10):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826004672/forward_8k.htm
+  → Brera proposal (all-stock, non-binding)
+
+8-K (filed 2026-06-16):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826004847/forward_8k.htm
+  → SkyAI + Solana Company proposals (both declined)
+
+Form 4 (filed 2026-05-18):
+  https://www.sec.gov/Archives/edgar/data/38264/000168316826004071/xslF345X06/ownership.xml
+  → Pyahm Samani: distribution of 4,458,796 $0.01 warrants + 1,783,519 shares
+    (CHANGE IN BENEFICIAL OWNERSHIP; no exercise/issuance)
+
+═══════════════════════════════════════════════════════════════════════════
+UNVERIFIABLE / LIMITATIONS
+═══════════════════════════════════════════════════════════════════════════
+
+1. Apr 15 & May 1 common share count: The 76.974713 figure nets out ONLY the
+   specifically-disclosed 6,164,324 Multicoin repurchase from the Jan 31
+   cover-page number. Between Jan 31 and Mar 31, ~9.2M total shares were
+   repurchased (per the later 10-Q), of which ~3M were open-market buybacks
+   not individually disclosed before May 14. Additionally, ~605,000 new shares
+   were issued (5,000 option exercises + 600,000 'other') in Q1 2026. The net
+   of ALL activity through Mar 31 was 76,314,617 outstanding, but this was not
+   known until the May 14 10-Q. The Apr 15/May 1 formulas are therefore
+   approximate.
+
+2. Pre-Funded Warrants at Apr 15/May 1: The 600,000 exercise was not known
+   until the May 14 10-Q. The formulas use 12,864,602 for these nodes.
+
+3. $0.01 warrants: The May 18 Form 4 shows a distribution of 4,458,796 warrants
+   from a pooled vehicle to an individual. This is a change in BENEFICIAL
+   OWNERSHIP, not an exercise. However, without the Q2 2026 10-Q (not yet filed
+   through Jul 1), we cannot confirm definitively that no $0.01 warrants were
+   exercised. The anti-dilutive table in the next 10-Q should be checked.
+
+4. 200,000 management options: The 10-Q reports 896,606 management options
+   granted in Q1 2026, but the baseline formula only totals 696,606 (323,303 +
+   323,303 + 50,000). The remaining ~200,000 options may have been granted to
+   other employees after Mar 15 or may have different terms not captured in
+   the formula. The grant date fair value is $3.07/share, suggesting low
+   strike prices not material to dilution calculation at most price levels.
+
+5. "7.55M-SOL purchase financing": No SEC filing referencing this was found
+   through Jul 1, 2026. The Galaxy $80M loan facility is non-convertible
+   senior secured debt. If this refers to an equity raise, it had not been
+   disclosed in SEC filings by Jul 1.
+
+6. Next 10-Q: Expected for the period ending Jun 30, 2026, to be filed ~Aug 2026.
+   Will provide updated common shares outstanding, warrant reserves, and
+   option activity for Q2 2026.

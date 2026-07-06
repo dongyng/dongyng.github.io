@@ -1,0 +1,2073 @@
+======================================================================
+## METAPLANET (3350) — col AV
+======================================================================
+
+### METAPLANET — Apr 15  (price cell AV26)
+
+=ROUND(
+ (1274144633 + N("Common (ex-treasury): 1,274,144,633 as of 2026-03-31 per 2026-04-01 notice.")
+ + 105000000 * MAX(AV26 - MAX(637, AV26*1), 0) / AV26 + N("23rd SAR: 105,000,000; MS strike MAX(637); suspended 2026-03-24 to 2027-12-08.")
+ + 105000000 * MAX(AV26 - MAX(777, AV26*1), 0) / AV26 + N("24th SAR: 105,000,000; MS strike MAX(777); suspended.")
+ + 15944000 * MAX(AV26 - 547, 0) / AV26 + N("25th SAR: 15,944,000; fixed JPY 547; OTM, no exercises.")
+ + 107368000 * MAX(AV26 - 410, 0) / AV26 + N("26th SAR: 107,368,000; fixed JPY 410; OTM, no exercises.")
+ + 100000000 * MAX(AV26 - MAX(298, AV26*1), 0) / AV26 + N("27th SAR: 100,000,000 as issued 2026-04-01; no exercise disclosure on/before 2026-04-15; MS strike, initial JPY 373 / floor JPY 298, daily reset.")
+ ) / 1000000
+,3)
+
+### METAPLANET — May 1  (price cell AV27)
+
+=ROUND(
+ (1279886917 + N("Common (ex-treasury): 1,279,886,917 as of 2026-04-30 per 2026-05-01 notice.")
+ + 105000000 * MAX(AV27 - MAX(637, AV27*1), 0) / AV27 + N("23rd SAR: 105,000,000; MS strike MAX(637); suspended 2026-03-24 to 2027-12-08.")
+ + 105000000 * MAX(AV27 - MAX(777, AV27*1), 0) / AV27 + N("24th SAR: 105,000,000; MS strike MAX(777); suspended.")
+ + 15944000 * MAX(AV27 - 547, 0) / AV27 + N("25th SAR: 15,944,000; fixed JPY 547; OTM, no exercises.")
+ + 107368000 * MAX(AV27 - 410, 0) / AV27 + N("26th SAR: 107,368,000; fixed JPY 410; OTM, no exercises.")
+ + 95000000 * MAX(AV27 - MAX(298, AV27*1), 0) / AV27 + N("27th SAR: 950,000 units x100 = 95,000,000 as of 2026-04-30; MS strike, initial JPY 373 / floor JPY 298, daily reset.")
+ ) / 1000000
+,3)
+
+### METAPLANET — May 15  (price cell AV28)
+
+=ROUND(
+ (1279886917 + N("Common (ex-treasury): 1,279,886,917 as of 2026-04-30 per 2026-05-01 notice.")
+ + 105000000 * MAX(AV28 - MAX(637, AV28*1), 0) / AV28 + N("23rd SAR: 105,000,000; MS strike MAX(637); suspended 2026-03-24 to 2027-12-08.")
+ + 105000000 * MAX(AV28 - MAX(777, AV28*1), 0) / AV28 + N("24th SAR: 105,000,000; MS strike MAX(777); suspended.")
+ + 15944000 * MAX(AV28 - 547, 0) / AV28 + N("25th SAR: 15,944,000; fixed JPY 547; OTM, no exercises.")
+ + 107368000 * MAX(AV28 - 410, 0) / AV28 + N("26th SAR: 107,368,000; fixed JPY 410; OTM, no exercises.")
+ + 95000000 * MAX(AV28 - MAX(298, AV28*1), 0) / AV28 + N("27th SAR: 95,000,000 as of 2026-04-30; MS strike, initial JPY 373 / floor JPY 298, daily reset.")
+ ) / 1000000
+,3)
+
+### METAPLANET — Jun 1  (price cell AV29)
+
+=ROUND(
+ (1281256904 + N("Common (ex-treasury): 1,281,256,904 as of 2026-05-31 per 2026-06-01 notice.")
+ + 105000000 * MAX(AV29 - MAX(637, AV29*1), 0) / AV29 + N("23rd SAR: 105,000,000; MS strike MAX(637); suspended 2026-03-24 to 2027-12-08.")
+ + 105000000 * MAX(AV29 - MAX(777, AV29*1), 0) / AV29 + N("24th SAR: 105,000,000; MS strike MAX(777); suspended.")
+ + 15944000 * MAX(AV29 - 547, 0) / AV29 + N("25th SAR: 15,944,000; fixed JPY 547; OTM, no exercises.")
+ + 107368000 * MAX(AV29 - 410, 0) / AV29 + N("26th SAR: 107,368,000; fixed JPY 410; OTM, no exercises.")
+ + 94730000 * MAX(AV29 - MAX(298, AV29*1), 0) / AV29 + N("27th SAR: 947,300 units x100 = 94,730,000 as of 2026-05-31; MS strike, initial JPY 373 / floor JPY 298, daily reset.")
+ ) / 1000000
+,3)
+
+### METAPLANET — Jun 15  (price cell AV30)
+
+=ROUND(
+ (1281256904 + N("Common (ex-treasury): 1,281,256,904 as of 2026-05-31 per 2026-06-01 notice.")
+ + 105000000 * MAX(AV30 - MAX(637, AV30*1), 0) / AV30 + N("23rd SAR: 105,000,000; MS strike MAX(637); suspended 2026-03-24 to 2027-12-08.")
+ + 105000000 * MAX(AV30 - MAX(777, AV30*1), 0) / AV30 + N("24th SAR: 105,000,000; MS strike MAX(777); suspended.")
+ + 15944000 * MAX(AV30 - 547, 0) / AV30 + N("25th SAR: 15,944,000; fixed JPY 547; OTM, no exercises.")
+ + 107368000 * MAX(AV30 - 410, 0) / AV30 + N("26th SAR: 107,368,000; fixed JPY 410; OTM, no exercises.")
+ + 94730000 * MAX(AV30 - MAX(298, AV30*1), 0) / AV30 + N("27th SAR: 94,730,000 as of 2026-05-31; MS strike, initial JPY 373 / floor JPY 298, daily reset.")
+ ) / 1000000
+,3)
+
+### METAPLANET — Jul 1  (price cell AV31)
+
+=ROUND(
+ (1281256899 + N("Common (ex-treasury): 1,281,256,899 as of 2026-06-30 per 2026-07-01 notice.")
+ + 105000000 * MAX(AV31 - MAX(637, AV31*1), 0) / AV31 + N("23rd SAR: 105,000,000; MS strike MAX(637); suspended 2026-03-24 to 2027-12-08.")
+ + 105000000 * MAX(AV31 - MAX(777, AV31*1), 0) / AV31 + N("24th SAR: 105,000,000; MS strike MAX(777); suspended.")
+ + 15944000 * MAX(AV31 - 547, 0) / AV31 + N("25th SAR: 15,944,000; fixed JPY 547; OTM, no exercises.")
+ + 107368000 * MAX(AV31 - 410, 0) / AV31 + N("26th SAR: 107,368,000; fixed JPY 410; OTM, no exercises.")
+ + 94730000 * MAX(AV31 - MAX(298, AV31*1), 0) / AV31 + N("27th SAR: 94,730,000 as of 2026-06-30 (0 exercised in June); MS strike, initial JPY 373 / floor JPY 298, daily reset.")
+ ) / 1000000
+,3)
+
+======================================================================
+## SBET — col BL (Version A: 10-Q pre-funded)
+======================================================================
+
+### SBET — Apr 15  (price cell BL26)
+
+=ROUND(
+  197.161623 + N("Common shares as of 2026-03-06 per DEF 14A filed 2026-03-17.")
++ 1.594205 + N("Service-based RSUs unvested as of 2025-12-31 per 10-K.")
++ 0.008906*MAX(BL26-91.56,0)/BL26 + N("Stock options 8,906 @ $91.56 as of 2025-12-31.")
++ 1.382007*MAX(BL26-6.15,0)/BL26 + N("Strategic Advisor Warrants tranche 1, 1,382,007 @ $6.15.")
++ 0.691004*MAX(BL26-6.765,0)/BL26 + N("Strategic Advisor Warrants tranche 2, 691,004 @ $6.765.")
++ 0.691004*MAX(BL26-7.38,0)/BL26 + N("Strategic Advisor Warrants tranche 3, 691,004 @ $7.38.")
++ 0.691004*MAX(BL26-7.995,0)/BL26 + N("Strategic Advisor Warrants tranche 4, 691,004 @ $7.995.")
++ 2.764013*MAX(BL26-7.68,0)/BL26 + N("Placement Agent Warrants 2,764,013 @ $7.68.")
++ 11.897165*MAX(BL26-0.0001,0)/BL26 + N("Pre-Funded Warrants 11,897,165 @ $0.0001.")
+,3)
+
+### SBET — May 1  (price cell BL27)
+
+=ROUND(
+  197.161623 + N("Common shares as of 2026-03-06 per DEF 14A; no newer filed by May 1.")
++ 1.594205 + N("Service-based RSUs unvested as of 2025-12-31 per 10-K.")
++ 0.008906*MAX(BL27-91.56,0)/BL27 + N("Stock options 8,906 @ $91.56 as of 2025-12-31.")
++ 1.382007*MAX(BL27-6.15,0)/BL27 + N("Strategic Advisor Warrants tranche 1, 1,382,007 @ $6.15.")
++ 0.691004*MAX(BL27-6.765,0)/BL27 + N("Strategic Advisor Warrants tranche 2, 691,004 @ $6.765.")
++ 0.691004*MAX(BL27-7.38,0)/BL27 + N("Strategic Advisor Warrants tranche 3, 691,004 @ $7.38.")
++ 0.691004*MAX(BL27-7.995,0)/BL27 + N("Strategic Advisor Warrants tranche 4, 691,004 @ $7.995.")
++ 2.764013*MAX(BL27-7.68,0)/BL27 + N("Placement Agent Warrants 2,764,013 @ $7.68.")
++ 11.897165*MAX(BL27-0.0001,0)/BL27 + N("Pre-Funded Warrants 11,897,165 @ $0.0001.")
+,3)
+
+### SBET — May 15  (price cell BL28)
+
+=ROUND(
+  197.211412 + N("Common shares as of 2026-05-04 per 10-Q filed 2026-05-08.")
++ 1.318359 + N("Service-based RSUs unvested as of 2026-03-31 per 10-Q.")
++ 0.003146*MAX(BL28-122.88,0)/BL28 + N("Stock options 3,146 @ $122.88 as of 2026-03-31 (5,760 expired in Q1).")
++ 1.382007*MAX(BL28-6.15,0)/BL28 + N("Strategic Advisor Warrants tranche 1, 1,382,007 @ $6.15.")
++ 0.691004*MAX(BL28-6.765,0)/BL28 + N("Strategic Advisor Warrants tranche 2, 691,004 @ $6.765.")
++ 0.691004*MAX(BL28-7.38,0)/BL28 + N("Strategic Advisor Warrants tranche 3, 691,004 @ $7.38.")
++ 0.691004*MAX(BL28-7.995,0)/BL28 + N("Strategic Advisor Warrants tranche 4, 691,004 @ $7.995.")
++ 2.764013*MAX(BL28-7.68,0)/BL28 + N("Placement Agent Warrants 2,764,013 @ $7.68.")
++ 0.080000*MAX(BL28-0.0001,0)/BL28 + N("Pre-Funded Warrants 80,000 remaining @ $0.0001; 11,817,165 exercised Apr 14-15 per 10-Q Note 15.")
+,3)
+
+### SBET — Jun 1  (price cell BL29)
+
+=ROUND(
+  197.211412 + N("Common shares as of 2026-05-04 per 10-Q; no newer by Jun 1.")
++ 1.318359 + N("RSUs unvested as of 2026-03-31 per 10-Q.")
++ 0.003146*MAX(BL29-122.88,0)/BL29 + N("Stock options 3,146 @ $122.88 as of 2026-03-31.")
++ 1.382007*MAX(BL29-6.15,0)/BL29 + N("Strategic Advisor Warrants tranche 1, 1,382,007 @ $6.15.")
++ 0.691004*MAX(BL29-6.765,0)/BL29 + N("Strategic Advisor Warrants tranche 2, 691,004 @ $6.765.")
++ 0.691004*MAX(BL29-7.38,0)/BL29 + N("Strategic Advisor Warrants tranche 3, 691,004 @ $7.38.")
++ 0.691004*MAX(BL29-7.995,0)/BL29 + N("Strategic Advisor Warrants tranche 4, 691,004 @ $7.995.")
++ 2.764013*MAX(BL29-7.68,0)/BL29 + N("Placement Agent Warrants 2,764,013 @ $7.68.")
++ 0.080000*MAX(BL29-0.0001,0)/BL29 + N("Pre-Funded Warrants 80,000 @ $0.0001 per 10-Q Note 15.")
+,3)
+
+### SBET — Jun 15  (price cell BL30)
+
+=ROUND(
+  197.211412 + N("Common shares as of 2026-05-04 per 10-Q; no newer by Jun 15.")
++ 1.318359 + N("RSUs unvested as of 2026-03-31 per 10-Q.")
++ 0.003146*MAX(BL30-122.88,0)/BL30 + N("Stock options 3,146 @ $122.88 as of 2026-03-31.")
++ 1.382007*MAX(BL30-6.15,0)/BL30 + N("Strategic Advisor Warrants tranche 1, 1,382,007 @ $6.15.")
++ 0.691004*MAX(BL30-6.765,0)/BL30 + N("Strategic Advisor Warrants tranche 2, 691,004 @ $6.765.")
++ 0.691004*MAX(BL30-7.38,0)/BL30 + N("Strategic Advisor Warrants tranche 3, 691,004 @ $7.38.")
++ 0.691004*MAX(BL30-7.995,0)/BL30 + N("Strategic Advisor Warrants tranche 4, 691,004 @ $7.995.")
++ 2.764013*MAX(BL30-7.68,0)/BL30 + N("Placement Agent Warrants 2,764,013 @ $7.68.")
++ 0.080000*MAX(BL30-0.0001,0)/BL30 + N("Pre-Funded Warrants 80,000 @ $0.0001 per 10-Q Note 15.")
+,3)
+
+### SBET — Jul 1  (price cell BL31)
+
+=ROUND(
+  210.262597 + N("Common: 424B5 (Jun 23) post-offering 212,395,370 as of Jun 18 minus 2,132,773 repurchased Jun 24-26 per 8-K Jun 30.")
++ 1.404888 + N("RSUs unvested as of 2026-06-18 per 424B5.")
++ 0.003146*MAX(BL31-122.88,0)/BL31 + N("Stock options 3,146 @ $122.88, confirmed by 424B5.")
++ 1.382007*MAX(BL31-6.15,0)/BL31 + N("Strategic Advisor Warrants tranche 1, 1,382,007 @ $6.15.")
++ 0.691004*MAX(BL31-6.765,0)/BL31 + N("Strategic Advisor Warrants tranche 2, 691,004 @ $6.765.")
++ 0.691004*MAX(BL31-7.38,0)/BL31 + N("Strategic Advisor Warrants tranche 3, 691,004 @ $7.38.")
++ 0.691004*MAX(BL31-7.995,0)/BL31 + N("Strategic Advisor Warrants tranche 4, 691,004 @ $7.995.")
++ 2.764013*MAX(BL31-7.68,0)/BL31 + N("Placement Agent Warrants 2,764,013 @ $7.68.")
++ 0.080000*MAX(BL31-0.0001,0)/BL31 + N("Pre-Funded Warrants 80,000 @ $0.0001 per 10-Q Note 15.")
++ 10.013351*MAX(BL31-8.15,0)/BL31 + N("NEW Registered Direct Warrants 10,013,351 @ $8.15 (4yr), issued Jun 23 per 8-K/424B5.")
+,3)
+
+======================================================================
+## BMNR — col BZ (pre-funded line removed)
+======================================================================
+
+### BMNR — Apr 15  (price cell BZ26)
+
+=ROUND(
+ (537628819 + N("Common shares 537,628,819 as of 2026-04-13 per Q2 10-Q filed 2026-04-14.")
+ +1147818 + N("Unvested time-based RSUs 1,147,818 as of 2026-02-28 per Q2 10-Q.")
+ +IFERROR(MAX(0,2875037*(BZ26-5.4)/BZ26),0) + N("Strategic Advisor $5.40 warrants 2,875,037.")
+ +IFERROR(MAX(0,1280*(BZ26-5.4)/BZ26),0) + N("C-3 warrants 1,280 @ $5.40.")
+ +IFERROR(MAX(0,50875*(BZ26-10)/BZ26),0) + N("Representative warrants 50,875 @ $10.")
+ +IFERROR(MAX(0,57000*(BZ26-29.8)/BZ26),0) + N("David Sharbutt options 57,000 @ $29.80.")
+ +IFERROR(MAX(0,10435430*(BZ26-87.5)/BZ26),0) + N("CVI liability warrants 10,435,430 @ $87.50.")
+ )/1000000
+,3)
+
+### BMNR — May 1  (price cell BZ27)
+
+=ROUND(
+ (569576819 + N("Common shares 569,576,819 as of 2026-04-23 per S-3ASR filed 2026-04-24 (latest verified cover; STALE for Jun-Jul - BMNR discloses no interim share counts; true count higher; next update Q3 10-Q ~2026-07-15).")
+ +1147818 + N("Unvested time-based RSUs 1,147,818 as of 2026-02-28 per Q2 10-Q.")
+ +IFERROR(MAX(0,2875037*(BZ27-5.4)/BZ27),0) + N("Strategic Advisor $5.40 warrants 2,875,037.")
+ +IFERROR(MAX(0,1280*(BZ27-5.4)/BZ27),0) + N("C-3 warrants 1,280 @ $5.40.")
+ +IFERROR(MAX(0,50875*(BZ27-10)/BZ27),0) + N("Representative warrants 50,875 @ $10.")
+ +IFERROR(MAX(0,57000*(BZ27-29.8)/BZ27),0) + N("David Sharbutt options 57,000 @ $29.80.")
+ +IFERROR(MAX(0,10435430*(BZ27-87.5)/BZ27),0) + N("CVI liability warrants 10,435,430 @ $87.50.")
+ )/1000000
+,3)
+
+### BMNR — May 15  (price cell BZ28)
+
+=ROUND(
+ (569576819 + N("Common shares 569,576,819 as of 2026-04-23 per S-3ASR filed 2026-04-24 (latest verified cover; STALE for Jun-Jul - BMNR discloses no interim share counts; true count higher; next update Q3 10-Q ~2026-07-15).")
+ +1147818 + N("Unvested time-based RSUs 1,147,818 as of 2026-02-28 per Q2 10-Q.")
+ +IFERROR(MAX(0,2875037*(BZ28-5.4)/BZ28),0) + N("Strategic Advisor $5.40 warrants 2,875,037.")
+ +IFERROR(MAX(0,1280*(BZ28-5.4)/BZ28),0) + N("C-3 warrants 1,280 @ $5.40.")
+ +IFERROR(MAX(0,50875*(BZ28-10)/BZ28),0) + N("Representative warrants 50,875 @ $10.")
+ +IFERROR(MAX(0,57000*(BZ28-29.8)/BZ28),0) + N("David Sharbutt options 57,000 @ $29.80.")
+ +IFERROR(MAX(0,10435430*(BZ28-87.5)/BZ28),0) + N("CVI liability warrants 10,435,430 @ $87.50.")
+ )/1000000
+,3)
+
+### BMNR — Jun 1  (price cell BZ29)
+
+=ROUND(
+ (569576819 + N("Common shares 569,576,819 as of 2026-04-23 per S-3ASR filed 2026-04-24 (latest verified cover; STALE for Jun-Jul - BMNR discloses no interim share counts; true count higher; next update Q3 10-Q ~2026-07-15).")
+ +1147818 + N("Unvested time-based RSUs 1,147,818 as of 2026-02-28 per Q2 10-Q.")
+ +IFERROR(MAX(0,2875037*(BZ29-5.4)/BZ29),0) + N("Strategic Advisor $5.40 warrants 2,875,037.")
+ +IFERROR(MAX(0,1280*(BZ29-5.4)/BZ29),0) + N("C-3 warrants 1,280 @ $5.40.")
+ +IFERROR(MAX(0,50875*(BZ29-10)/BZ29),0) + N("Representative warrants 50,875 @ $10.")
+ +IFERROR(MAX(0,57000*(BZ29-29.8)/BZ29),0) + N("David Sharbutt options 57,000 @ $29.80.")
+ +IFERROR(MAX(0,10435430*(BZ29-87.5)/BZ29),0) + N("CVI liability warrants 10,435,430 @ $87.50.")
+ )/1000000
+,3)
+
+### BMNR — Jun 15  (price cell BZ30)
+
+=ROUND(
+ (569576819 + N("Common shares 569,576,819 as of 2026-04-23 per S-3ASR filed 2026-04-24 (latest verified cover; STALE for Jun-Jul - BMNR discloses no interim share counts; true count higher; next update Q3 10-Q ~2026-07-15).")
+ +1147818 + N("Unvested time-based RSUs 1,147,818 as of 2026-02-28 per Q2 10-Q.")
+ +IFERROR(MAX(0,2875037*(BZ30-5.4)/BZ30),0) + N("Strategic Advisor $5.40 warrants 2,875,037.")
+ +IFERROR(MAX(0,1280*(BZ30-5.4)/BZ30),0) + N("C-3 warrants 1,280 @ $5.40.")
+ +IFERROR(MAX(0,50875*(BZ30-10)/BZ30),0) + N("Representative warrants 50,875 @ $10.")
+ +IFERROR(MAX(0,57000*(BZ30-29.8)/BZ30),0) + N("David Sharbutt options 57,000 @ $29.80.")
+ +IFERROR(MAX(0,10435430*(BZ30-87.5)/BZ30),0) + N("CVI liability warrants 10,435,430 @ $87.50.")
+ )/1000000
+,3)
+
+### BMNR — Jul 1  (price cell BZ31)
+
+=ROUND(
+ (569576819 + N("Common shares 569,576,819 as of 2026-04-23 per S-3ASR filed 2026-04-24 (latest verified cover; STALE for Jun-Jul - BMNR discloses no interim share counts; true count higher; next update Q3 10-Q ~2026-07-15).")
+ +1147818 + N("Unvested time-based RSUs 1,147,818 as of 2026-02-28 per Q2 10-Q.")
+ +IFERROR(MAX(0,2875037*(BZ31-5.4)/BZ31),0) + N("Strategic Advisor $5.40 warrants 2,875,037.")
+ +IFERROR(MAX(0,1280*(BZ31-5.4)/BZ31),0) + N("C-3 warrants 1,280 @ $5.40.")
+ +IFERROR(MAX(0,50875*(BZ31-10)/BZ31),0) + N("Representative warrants 50,875 @ $10.")
+ +IFERROR(MAX(0,57000*(BZ31-29.8)/BZ31),0) + N("David Sharbutt options 57,000 @ $29.80.")
+ +IFERROR(MAX(0,10435430*(BZ31-87.5)/BZ31),0) + N("CVI liability warrants 10,435,430 @ $87.50.")
+ )/1000000
+,3)
+
+======================================================================
+## ASST (Strive) — col DD
+======================================================================
+
+### ASST — Apr 15  (price cell DD26)
+
+=ROUND(
+  59.824987 + N("Class A: as of 2026-04-13 per 8-K filed 2026-04-15.")
++ 9.893844 + N("Class B: as of 2026-04-13 per 8-K filed 2026-04-15.")
++ 26.594435*MAX(DD26-27,0)/DD26 + N("PIPE Traditional Warrants 531,888,702/20 = 26,594,435 @ $27.00; zero exercises per 10-Q.")
++ 0.001575*MAX(DD26-625,0)/DD26 + N("ASST legacy warrants 31,500/20 = 1,575 @ $625.00; unchanged.")
++ 0 + N("PIPE Pre-Funded Warrants: 0 (all 1,072,289 exercised by 2026-03-17).")
+,3)
+
+### ASST — May 1  (price cell DD27)
+
+=ROUND(
+  62.888587 + N("Class A: as of 2026-04-24 per 8-K filed 2026-04-27.")
++ 9.893844 + N("Class B: as of 2026-04-24 per 8-K filed 2026-04-27.")
++ 26.594435*MAX(DD27-27,0)/DD27 + N("PIPE Traditional Warrants 531,888,702/20 = 26,594,435 @ $27.00; zero exercises per 10-Q.")
++ 0.001575*MAX(DD27-625,0)/DD27 + N("ASST legacy warrants 31,500/20 = 1,575 @ $625.00; unchanged.")
++ 0 + N("PIPE Pre-Funded Warrants: 0 (all 1,072,289 exercised by 2026-03-17).")
+,3)
+
+### ASST — May 15  (price cell DD28)
+
+=ROUND(
+  63.211995 + N("Class A: as of 2026-05-12 per 8-K filed 2026-05-14.")
++ 9.870636 + N("Class B: as of 2026-05-12 per 8-K filed 2026-05-14.")
++ 26.594435*MAX(DD28-27,0)/DD28 + N("PIPE Traditional Warrants 531,888,702/20 = 26,594,435 @ $27.00; zero exercises per 10-Q.")
++ 0.001575*MAX(DD28-625,0)/DD28 + N("ASST legacy warrants 31,500/20 = 1,575 @ $625.00; unchanged.")
++ 0 + N("PIPE Pre-Funded Warrants: 0 (all 1,072,289 exercised by 2026-03-17).")
+,3)
+
+### ASST — Jun 1  (price cell DD29)
+
+=ROUND(
+  65.898527 + N("Class A: as of 2026-05-22 per 8-K filed 2026-05-26.")
++ 9.870636 + N("Class B: as of 2026-05-22 per 8-K filed 2026-05-26.")
++ 26.594435*MAX(DD29-27,0)/DD29 + N("PIPE Traditional Warrants 531,888,702/20 = 26,594,435 @ $27.00; zero exercises per 10-Q.")
++ 0.001575*MAX(DD29-625,0)/DD29 + N("ASST legacy warrants 31,500/20 = 1,575 @ $625.00; unchanged.")
++ 0 + N("PIPE Pre-Funded Warrants: 0 (all 1,072,289 exercised by 2026-03-17).")
+,3)
+
+### ASST — Jun 15  (price cell DD30)
+
+=ROUND(
+  69.894045 + N("Class A: as of 2026-06-12 per 8-K filed 2026-06-15.")
++ 9.780018 + N("Class B: as of 2026-06-12 per 8-K filed 2026-06-15.")
++ 26.594435*MAX(DD30-27,0)/DD30 + N("PIPE Traditional Warrants 531,888,702/20 = 26,594,435 @ $27.00; zero exercises per 10-Q.")
++ 0.001575*MAX(DD30-625,0)/DD30 + N("ASST legacy warrants 31,500/20 = 1,575 @ $625.00; unchanged.")
++ 0 + N("PIPE Pre-Funded Warrants: 0 (all 1,072,289 exercised by 2026-03-17).")
+,3)
+
+### ASST — Jul 1  (price cell DD31)
+
+=ROUND(
+  71.864809 + N("Class A: as of 2026-06-26 per 8-K filed 2026-06-29.")
++ 9.780018 + N("Class B: as of 2026-06-26 per 8-K filed 2026-06-29.")
++ 26.594435*MAX(DD31-27,0)/DD31 + N("PIPE Traditional Warrants 531,888,702/20 = 26,594,435 @ $27.00; zero exercises per 10-Q.")
++ 0.001575*MAX(DD31-625,0)/DD31 + N("ASST legacy warrants 31,500/20 = 1,575 @ $625.00; unchanged.")
++ 0 + N("PIPE Pre-Funded Warrants: 0 (all 1,072,289 exercised by 2026-03-17).")
+,3)
+
+======================================================================
+## SKYA — col DS (recommended, no double-count)
+======================================================================
+
+### SKYA — Apr 15  (price cell DS26)
+
+=ROUND(
+  38.664571 + N("Common O/S 38,664,571 as of 2026-03-24 per FY2025 10-K cover (filed 2026-03-31).")
++ 63.213672*MAX(DS26-9.75,0)/DS26 + N("Stapled warrants 63,213,672 @ $9.75.")
++ 28.315610*MAX(DS26-0.0001,0)/DS26 + N("Pre-funded warrants 28,315,610 @ $0.0001 as of 2026-03-31 per 10-Q (9,401,702 exercised in Q1).")
++ 4.428467*MAX(DS26-0.0001,0)/DS26 + N("Strategic advisor warrants 4,428,467 @ $0.0001 as of 2026-03-31 (1,892,900 exercised in Q1).")
++ 1.875482*MAX(DS26-9.76,0)/DS26 + N("Stock options 1,875,482 @ wavg $9.76 as of 2025-12-31 per 10-K.")
++ 0.012391*MAX(DS26-6.5,0)/DS26 + N("Repriced Series A warrants 12,391 @ $6.50.")
+,3)
+
+### SKYA — May 1  (price cell DS27)
+
+=ROUND(
+  38.664571 + N("Common O/S 38,664,571 as of 2026-03-24 per FY2025 10-K cover (filed 2026-03-31).")
++ 63.213672*MAX(DS27-9.75,0)/DS27 + N("Stapled warrants 63,213,672 @ $9.75.")
++ 28.315610*MAX(DS27-0.0001,0)/DS27 + N("Pre-funded warrants 28,315,610 @ $0.0001 as of 2026-03-31 per 10-Q (9,401,702 exercised in Q1).")
++ 4.428467*MAX(DS27-0.0001,0)/DS27 + N("Strategic advisor warrants 4,428,467 @ $0.0001 as of 2026-03-31 (1,892,900 exercised in Q1).")
++ 1.875482*MAX(DS27-9.76,0)/DS27 + N("Stock options 1,875,482 @ wavg $9.76 as of 2025-12-31 per 10-K.")
++ 0.012391*MAX(DS27-6.5,0)/DS27 + N("Repriced Series A warrants 12,391 @ $6.50.")
+,3)
+
+### SKYA — May 15  (price cell DS28)
+
+=ROUND(
+  42.322168 + N("Common O/S 42,322,168 as of 2026-05-08 per 10-Q filed 2026-05-14.")
++ 63.213672*MAX(DS28-9.75,0)/DS28 + N("Stapled warrants 63,213,672 @ $9.75.")
++ 28.315610*MAX(DS28-0.0001,0)/DS28 + N("Pre-funded warrants 28,315,610 @ $0.0001 as of 2026-03-31 per 10-Q (9,401,702 exercised in Q1).")
++ 4.428467*MAX(DS28-0.0001,0)/DS28 + N("Strategic advisor warrants 4,428,467 @ $0.0001 as of 2026-03-31 (1,892,900 exercised in Q1).")
++ 1.855482*MAX(DS28-9.8,0)/DS28 + N("Stock options 1,855,482 @ wavg $9.80 as of 2026-03-31 per 10-Q.")
++ 0.012391*MAX(DS28-6.5,0)/DS28 + N("Repriced Series A warrants 12,391 @ $6.50.")
+,3)
+
+### SKYA — Jun 1  (price cell DS29)
+
+=ROUND(
+  42.322168 + N("Common O/S 42,322,168 as of 2026-05-08 per 10-Q filed 2026-05-14.")
++ 63.213672*MAX(DS29-9.75,0)/DS29 + N("Stapled warrants 63,213,672 @ $9.75.")
++ 28.315610*MAX(DS29-0.0001,0)/DS29 + N("Pre-funded warrants 28,315,610 @ $0.0001 as of 2026-03-31 per 10-Q (9,401,702 exercised in Q1).")
++ 4.428467*MAX(DS29-0.0001,0)/DS29 + N("Strategic advisor warrants 4,428,467 @ $0.0001 as of 2026-03-31 (1,892,900 exercised in Q1).")
++ 1.855482*MAX(DS29-9.8,0)/DS29 + N("Stock options 1,855,482 @ wavg $9.80 as of 2026-03-31 per 10-Q.")
++ 0.012391*MAX(DS29-6.5,0)/DS29 + N("Repriced Series A warrants 12,391 @ $6.50.")
+,3)
+
+### SKYA — Jun 15  (price cell DS30)
+
+=ROUND(
+  42.322168 + N("Common O/S 42,322,168 as of 2026-05-08 per 10-Q filed 2026-05-14.")
++ 63.213672*MAX(DS30-9.75,0)/DS30 + N("Stapled warrants 63,213,672 @ $9.75.")
++ 28.315610*MAX(DS30-0.0001,0)/DS30 + N("Pre-funded warrants 28,315,610 @ $0.0001 as of 2026-03-31 per 10-Q (9,401,702 exercised in Q1).")
++ 4.428467*MAX(DS30-0.0001,0)/DS30 + N("Strategic advisor warrants 4,428,467 @ $0.0001 as of 2026-03-31 (1,892,900 exercised in Q1).")
++ 1.855482*MAX(DS30-9.8,0)/DS30 + N("Stock options 1,855,482 @ wavg $9.80 as of 2026-03-31 per 10-Q.")
++ 0.012391*MAX(DS30-6.5,0)/DS30 + N("Repriced Series A warrants 12,391 @ $6.50.")
+,3)
+
+### SKYA — Jul 1  (price cell DS31)
+
+=ROUND(
+  42.322168 + N("Common O/S 42,322,168 as of 2026-05-08 per 10-Q filed 2026-05-14.")
++ 63.213672*MAX(DS31-9.75,0)/DS31 + N("Stapled warrants 63,213,672 @ $9.75.")
++ 28.315610*MAX(DS31-0.0001,0)/DS31 + N("Pre-funded warrants 28,315,610 @ $0.0001 as of 2026-03-31 per 10-Q (9,401,702 exercised in Q1).")
++ 4.428467*MAX(DS31-0.0001,0)/DS31 + N("Strategic advisor warrants 4,428,467 @ $0.0001 as of 2026-03-31 (1,892,900 exercised in Q1).")
++ 1.855482*MAX(DS31-9.8,0)/DS31 + N("Stock options 1,855,482 @ wavg $9.80 as of 2026-03-31 per 10-Q.")
++ 0.012391*MAX(DS31-6.5,0)/DS31 + N("Repriced Series A warrants 12,391 @ $6.50.")
+,3)
+
+
+======================================================================
+## FORWARD INDUSTRIES (FWDI) — col EG
+======================================================================
+
+### FORWARD — Apr 15  (price cell EG26)
+
+=ROUND(
+  76.974713 + N("Common: 83,139,037 (Jan 31 10-Q) - 6,164,324 Multicoin repurchase (8-K Mar 19); ~2.8M open-mkt buybacks not yet disclosed")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: Ryan Navi 382,085 + Georgia Quinn 293,911")
++ 0.307*MAX(EG26-13.39,0)/EG26 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG26-9.66,0)/EG26 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG26-14.49,0)/EG26 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG26-4.83,0)/EG26 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG26-5.02,0)/EG26 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 13.376388*MAX(EG26-0.01,0)/EG26 + N("$0.01 warrants (Advisor + Lead Investor) 13,376,388")
++ 0.111111*MAX(EG26-6.5,0)/EG26 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG26-7.5,0)/EG26 + N("Legacy warrants 7,500 @ $7.50")
++ 12.864602*MAX(EG26-0.00001,0)/EG26 + N("Pre-Funded Warrants 12.864602 @ $0.00001")
++ 0 + N("Executive PSUs excluded (contingent): Apr15/May1 881,736; May15+ 1,156,736 incl CFO 275,000")
++ 0 + N("Convertible debt: none; Galaxy $80M loan senior secured, non-convertible")
+,3)
+
+### FORWARD — May 1  (price cell EG27)
+
+=ROUND(
+  76.974713 + N("Common: 83,139,037 (Jan 31 10-Q) - 6,164,324 Multicoin repurchase (8-K Mar 19); ~2.8M open-mkt buybacks not yet disclosed")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: Ryan Navi 382,085 + Georgia Quinn 293,911")
++ 0.275 + N("CFO RSUs granted 2026-04-16 (8-K Apr 17): Mark Brazier 275,000")
++ 0.307*MAX(EG27-13.39,0)/EG27 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG27-9.66,0)/EG27 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG27-14.49,0)/EG27 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG27-4.83,0)/EG27 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG27-5.02,0)/EG27 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 0.1375*MAX(EG27-9.18,0)/EG27 + N("CFO options 2026-04-16: 137,500 @ $9.18")
++ 0.1375*MAX(EG27-13.77,0)/EG27 + N("CFO options 2026-04-16: 137,500 @ $13.77")
++ 13.376388*MAX(EG27-0.01,0)/EG27 + N("$0.01 warrants (Advisor + Lead Investor) 13,376,388")
++ 0.111111*MAX(EG27-6.5,0)/EG27 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG27-7.5,0)/EG27 + N("Legacy warrants 7,500 @ $7.50")
++ 12.864602*MAX(EG27-0.00001,0)/EG27 + N("Pre-Funded Warrants 12.864602 @ $0.00001")
++ 0 + N("Executive PSUs excluded (contingent): Apr15/May1 881,736; May15+ 1,156,736 incl CFO 275,000")
++ 0 + N("Convertible debt: none; Galaxy $80M loan senior secured, non-convertible")
+,3)
+
+### FORWARD — May 15  (price cell EG28)
+
+=ROUND(
+  74.679699 + N("Common: 74,679,699 as of 2026-04-30 per 10-Q filed 2026-05-14 (reflects all treasury activity).")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: Ryan Navi 382,085 + Georgia Quinn 293,911")
++ 0.275 + N("CFO RSUs granted 2026-04-16 (8-K Apr 17): Mark Brazier 275,000")
++ 0.307*MAX(EG28-13.39,0)/EG28 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG28-9.66,0)/EG28 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG28-14.49,0)/EG28 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG28-4.83,0)/EG28 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG28-5.02,0)/EG28 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 0.1375*MAX(EG28-9.18,0)/EG28 + N("CFO options 2026-04-16: 137,500 @ $9.18")
++ 0.1375*MAX(EG28-13.77,0)/EG28 + N("CFO options 2026-04-16: 137,500 @ $13.77")
++ 13.376388*MAX(EG28-0.01,0)/EG28 + N("$0.01 warrants (Advisor + Lead Investor) 13,376,388")
++ 0.111111*MAX(EG28-6.5,0)/EG28 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG28-7.5,0)/EG28 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG28-0.00001,0)/EG28 + N("Pre-Funded Warrants 12.264602 @ $0.00001")
++ 0 + N("Executive PSUs excluded (contingent): Apr15/May1 881,736; May15+ 1,156,736 incl CFO 275,000")
++ 0 + N("Convertible debt: none; Galaxy $80M loan senior secured, non-convertible")
+,3)
+
+### FORWARD — Jun 1  (price cell EG29)
+
+=ROUND(
+  74.679699 + N("Common: 74,679,699 as of 2026-04-30 per 10-Q filed 2026-05-14 (reflects all treasury activity).")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: Ryan Navi 382,085 + Georgia Quinn 293,911")
++ 0.275 + N("CFO RSUs granted 2026-04-16 (8-K Apr 17): Mark Brazier 275,000")
++ 0.307*MAX(EG29-13.39,0)/EG29 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG29-9.66,0)/EG29 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG29-14.49,0)/EG29 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG29-4.83,0)/EG29 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG29-5.02,0)/EG29 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 0.1375*MAX(EG29-9.18,0)/EG29 + N("CFO options 2026-04-16: 137,500 @ $9.18")
++ 0.1375*MAX(EG29-13.77,0)/EG29 + N("CFO options 2026-04-16: 137,500 @ $13.77")
++ 13.376388*MAX(EG29-0.01,0)/EG29 + N("$0.01 warrants (Advisor + Lead Investor) 13,376,388")
++ 0.111111*MAX(EG29-6.5,0)/EG29 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG29-7.5,0)/EG29 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG29-0.00001,0)/EG29 + N("Pre-Funded Warrants 12.264602 @ $0.00001")
++ 0 + N("Executive PSUs excluded (contingent): Apr15/May1 881,736; May15+ 1,156,736 incl CFO 275,000")
++ 0 + N("Convertible debt: none; Galaxy $80M loan senior secured, non-convertible")
+,3)
+
+### FORWARD — Jun 15  (price cell EG30)
+
+=ROUND(
+  74.679699 + N("Common: 74,679,699 as of 2026-04-30 per 10-Q filed 2026-05-14 (reflects all treasury activity).")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: Ryan Navi 382,085 + Georgia Quinn 293,911")
++ 0.275 + N("CFO RSUs granted 2026-04-16 (8-K Apr 17): Mark Brazier 275,000")
++ 0.307*MAX(EG30-13.39,0)/EG30 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG30-9.66,0)/EG30 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG30-14.49,0)/EG30 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG30-4.83,0)/EG30 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG30-5.02,0)/EG30 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 0.1375*MAX(EG30-9.18,0)/EG30 + N("CFO options 2026-04-16: 137,500 @ $9.18")
++ 0.1375*MAX(EG30-13.77,0)/EG30 + N("CFO options 2026-04-16: 137,500 @ $13.77")
++ 13.376388*MAX(EG30-0.01,0)/EG30 + N("$0.01 warrants (Advisor + Lead Investor) 13,376,388")
++ 0.111111*MAX(EG30-6.5,0)/EG30 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG30-7.5,0)/EG30 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG30-0.00001,0)/EG30 + N("Pre-Funded Warrants 12.264602 @ $0.00001")
++ 0 + N("Executive PSUs excluded (contingent): Apr15/May1 881,736; May15+ 1,156,736 incl CFO 275,000")
++ 0 + N("Convertible debt: none; Galaxy $80M loan senior secured, non-convertible")
+,3)
+
+### FORWARD — Jul 1  (price cell EG31)
+
+=ROUND(
+  74.679699 + N("Common: 74,679,699 as of 2026-04-30 per 10-Q filed 2026-05-14 (reflects all treasury activity).")
++ 0.675996 + N("Executive RSUs granted 2026-03-08: Ryan Navi 382,085 + Georgia Quinn 293,911")
++ 0.275 + N("CFO RSUs granted 2026-04-16 (8-K Apr 17): Mark Brazier 275,000")
++ 0.307*MAX(EG31-13.39,0)/EG31 + N("Legacy stock options 307,000; strike WA $13.39")
++ 0.323303*MAX(EG31-9.66,0)/EG31 + N("Exec options 2026-03-08: 323,303 @ $9.66")
++ 0.323303*MAX(EG31-14.49,0)/EG31 + N("Exec options 2026-03-08: 323,303 @ $14.49")
++ 0.05*MAX(EG31-4.83,0)/EG31 + N("CFO options 2026-03-08: 50,000 @ $4.83")
++ 0.4*MAX(EG31-5.02,0)/EG31 + N("Director options 2026-03-10: 400,000 @ $5.02")
++ 0.1375*MAX(EG31-9.18,0)/EG31 + N("CFO options 2026-04-16: 137,500 @ $9.18")
++ 0.1375*MAX(EG31-13.77,0)/EG31 + N("CFO options 2026-04-16: 137,500 @ $13.77")
++ 13.376388*MAX(EG31-0.01,0)/EG31 + N("$0.01 warrants (Advisor + Lead Investor) 13,376,388")
++ 0.111111*MAX(EG31-6.5,0)/EG31 + N("Series B Warrants 111,111 @ $6.50")
++ 0.0075*MAX(EG31-7.5,0)/EG31 + N("Legacy warrants 7,500 @ $7.50")
++ 12.264602*MAX(EG31-0.00001,0)/EG31 + N("Pre-Funded Warrants 12.264602 @ $0.00001")
++ 0 + N("Executive PSUs excluded (contingent): Apr15/May1 881,736; May15+ 1,156,736 incl CFO 275,000")
++ 0 + N("Convertible debt: none; Galaxy $80M loan senior secured, non-convertible")
+,3)
+======================================================================
+## UPEXI (UPXI) — col EU
+======================================================================
+
+### UPEXI — Apr 15  (price cell EU26)
+
+=ROUND(
+  69.760581 + N("Common shares outstanding as of 2026-02-09 per FY2Q26 10-Q cover; last disclosed before Apr 15.")
++ 4.552252 + N("RS/RSUs = 4,717,750 as of 2025-12-31 less 165,498 vested (already in common).")
++ 0.744478*MAX(EU26-3.4,0)/EU26 + N("Stock options 744,478 @ $3.40 WAEP as of 2025-12-31.")
++ 2.192982*MAX(EU26-3.648,0)/EU26 + N("Asset manager warrants 2,192,982; blended ~$3.648 (agreement terminated, warrants remain).")
++ 3.289474*MAX(EU26-2.83,0)/EU26 + N("Private Placement Warrants 3,289,474 @ $2.83 (amended from $4.00 on 2026-02-09).")
++ 6.337*MAX(EU26-1.5,0)/EU26 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU26>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 shares @ $4.25.")
++ 0.186667*IF(EU26>3,1,0) + N("Promissory notes $560,000 if-converted @ $3.00; repayment not yet disclosed.")
++ 15.046852*IF(EU26>2.39,1,0) + N("Secured convertible note 2026-01-09 if-converted @ $2.39 (15,046,852 shares).")
++ 0.138889 + N("Series A Preferred if-converted = 138,889 shares.")
+,3)
+
+### UPEXI — May 1  (price cell EU27)
+
+=ROUND(
+  69.760581 + N("Common shares outstanding as of 2026-02-09 per FY2Q26 10-Q cover; last disclosed before May 1.")
++ 4.552252 + N("RS/RSUs = 4,717,750 as of 2025-12-31 less 165,498 vested (already in common).")
++ 0.744478*MAX(EU27-3.4,0)/EU27 + N("Stock options 744,478 @ $3.40 WAEP as of 2025-12-31.")
++ 2.192982*MAX(EU27-3.648,0)/EU27 + N("Asset manager warrants 2,192,982; blended ~$3.648 (agreement terminated, warrants remain).")
++ 3.289474*MAX(EU27-2.83,0)/EU27 + N("Private Placement Warrants 3,289,474 @ $2.83 (amended from $4.00 on 2026-02-09).")
++ 6.337*MAX(EU27-1.5,0)/EU27 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU27>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 shares @ $4.25.")
++ 0.186667*IF(EU27>3,1,0) + N("Promissory notes $560,000 if-converted @ $3.00; repayment not yet disclosed.")
++ 15.046852*IF(EU27>2.39,1,0) + N("Secured convertible note 2026-01-09 if-converted @ $2.39 (15,046,852 shares).")
++ 0.138889 + N("Series A Preferred if-converted = 138,889 shares.")
+,3)
+
+### UPEXI — May 15  (price cell EU28)
+
+=ROUND(
+  70.261828 + N("Common shares outstanding as of 2026-05-11 per FY3Q26 10-Q cover (filed 2026-05-12); last disclosed before May 15.")
++ 4.527252 + N("RS/RSUs 4,527,252 as of 2026-03-31 per FY3Q26 10-Q.")
++ 0.669478*MAX(EU28-3.13,0)/EU28 + N("Stock options 669,478 @ $3.13 WAEP as of 2026-03-31.")
++ 2.192982*MAX(EU28-3.648,0)/EU28 + N("Asset manager warrants 2,192,982; blended ~$3.648 (agreement terminated, warrants remain).")
++ 3.289474*MAX(EU28-2.83,0)/EU28 + N("Private Placement Warrants 3,289,474 @ $2.83 (amended from $4.00 on 2026-02-09).")
++ 6.337*MAX(EU28-1.5,0)/EU28 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU28>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 shares @ $4.25.")
++ 0*IF(EU28>3,1,0) + N("Promissory notes $560,000 REPAID; balance $0 as of 2026-03-31 per 10-Q.")
++ 15.046852*IF(EU28>2.39,1,0) + N("Secured convertible note 2026-01-09 if-converted @ $2.39 (15,046,852 shares); principal $35.962M.")
++ 0.138889 + N("Series A Preferred if-converted = 138,889 shares.")
+,3)
+
+### UPEXI — Jun 1  (price cell EU29)
+
+=ROUND(
+  70.261828 + N("Common shares outstanding as of 2026-05-11 per FY3Q26 10-Q cover (filed 2026-05-12); last disclosed before Jun 1.")
++ 4.527252 + N("RS/RSUs 4,527,252 as of 2026-03-31 per FY3Q26 10-Q.")
++ 0.669478*MAX(EU29-3.13,0)/EU29 + N("Stock options 669,478 @ $3.13 WAEP as of 2026-03-31.")
++ 2.192982*MAX(EU29-3.648,0)/EU29 + N("Asset manager warrants 2,192,982; blended ~$3.648 (agreement terminated, warrants remain).")
++ 3.289474*MAX(EU29-2.83,0)/EU29 + N("Private Placement Warrants 3,289,474 @ $2.83 (amended from $4.00 on 2026-02-09).")
++ 6.337*MAX(EU29-1.5,0)/EU29 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU29>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 shares @ $4.25.")
++ 0*IF(EU29>3,1,0) + N("Promissory notes $560,000 REPAID; balance $0 as of 2026-03-31 per 10-Q.")
++ 15.046852*IF(EU29>2.39,1,0) + N("Secured convertible note 2026-01-09 if-converted @ $2.39 (15,046,852 shares); principal $35.962M.")
++ 0.138889 + N("Series A Preferred if-converted = 138,889 shares.")
+,3)
+
+### UPEXI — Jun 15  (price cell EU30)
+
+=ROUND(
+  70.261828 + N("Common shares outstanding as of 2026-05-11 per FY3Q26 10-Q cover (filed 2026-05-12); last disclosed before Jun 15.")
++ 4.527252 + N("RS/RSUs 4,527,252 as of 2026-03-31 per FY3Q26 10-Q.")
++ 0.669478*MAX(EU30-3.13,0)/EU30 + N("Stock options 669,478 @ $3.13 WAEP as of 2026-03-31.")
++ 2.192982*MAX(EU30-3.648,0)/EU30 + N("Asset manager warrants 2,192,982; blended ~$3.648 (agreement terminated, warrants remain).")
++ 3.289474*MAX(EU30-2.83,0)/EU30 + N("Private Placement Warrants 3,289,474 @ $2.83 (amended from $4.00 on 2026-02-09).")
++ 6.337*MAX(EU30-1.5,0)/EU30 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU30>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 shares @ $4.25.")
++ 0*IF(EU30>3,1,0) + N("Promissory notes $560,000 REPAID; balance $0 as of 2026-03-31 per 10-Q.")
++ 15.046852*IF(EU30>2.39,1,0) + N("Secured convertible note 2026-01-09 if-converted @ $2.39 (15,046,852 shares); principal $35.962M.")
++ 0.138889 + N("Series A Preferred if-converted = 138,889 shares.")
+,3)
+
+### UPEXI — Jul 1  (price cell EU31)
+
+=ROUND(
+  75.511828 + N("Common = 70,261,828 (May 11 10-Q cover) + 5,250,000 (Jun 21 private placement, 8-K Jun 24); unverified May 11-Jul 1.")
++ 4.527252 + N("RS/RSUs 4,527,252 as of 2026-03-31 per FY3Q26 10-Q.")
++ 0.669478*MAX(EU31-3.13,0)/EU31 + N("Stock options 669,478 @ $3.13 WAEP as of 2026-03-31.")
++ 2.192982*MAX(EU31-3.648,0)/EU31 + N("Asset manager warrants 2,192,982; blended ~$3.648 (agreement terminated, warrants remain).")
++ 3.289474*MAX(EU31-2.83,0)/EU31 + N("Private Placement Warrants 3,289,474 @ $2.83 (amended from $4.00 on 2026-02-09).")
++ 6.337*MAX(EU31-1.5,0)/EU31 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU31>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 shares @ $4.25.")
++ 0*IF(EU31>3,1,0) + N("Promissory notes $560,000 REPAID; balance $0 as of 2026-03-31 per 10-Q.")
++ 6.870017*IF(EU31>2.39,1,0) + N("Jan 2026 Note remaining principal $16,419,340.46 -> 6,870,017 @ $2.39 ($19.54M retired via Jun 21 deal).")
++ 5.25 + N("NEW common shares issued 2026-06-21 private placement (5,250,000 @ $1.59652).")
++ 6.9923*MAX(EU31-0.00001,0)/EU31 + N("Pre-Funded Warrants (Jun 21 PP) 6,992,300 @ $0.00001.")
++ 0.138889 + N("Series A Preferred if-converted = 138,889 shares.")
+,3)
+
+
+## BIT DIGITAL (BTBT) — col AJ, 27 nodes (rows 5-31)
+
+### BTBT — 2025-05-31  (price cell AJ5)
+
+=ROUND(
+  207.780871 + N("Common 207.780871M ordinary shares; Q1 2025 10-Q cover (May 12), filed 2025-05-15.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 outstanding, expire 2025-07-25 (full add; NOTE: OTM at ~$2-3).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-06-15  (price cell AJ6)
+
+=ROUND(
+  207.780871 + N("Common 207.780871M ordinary shares; Q1 10-Q cover; STALE (June offering not yet closed).")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 outstanding, expire 2025-07-25 (full add; NOTE: OTM at ~$2-3).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-07-01  (price cell AJ7)
+
+=ROUND(
+  207.780871 + N("Common 207.780871M ordinary shares; Q1 10-Q cover; STALE - excludes June +75M offering (424B5 Jun 26); actual ~283M.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 outstanding, expire 2025-07-25 (full add; NOTE: OTM at ~$2-3).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-07-15  (price cell AJ8)
+
+=ROUND(
+  207.780871 + N("Common 207.780871M ordinary shares; Q1 10-Q cover; STALE - excludes June/July offerings; actual ~316M.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 outstanding, expire 2025-07-25 (full add; NOTE: OTM at ~$2-3).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-08-01  (price cell AJ9)
+
+=ROUND(
+  207.780871 + N("Common 207.780871M ordinary shares; Q1 10-Q cover; STALE; warrants expired Jul 25.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-08-15  (price cell AJ10)
+
+=ROUND(
+  321.432722 + N("Common 321.432722M ordinary shares; Q2 2025 10-Q cover (Aug 13), filed 2025-08-14.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-09-01  (price cell AJ11)
+
+=ROUND(
+  321.432722 + N("Common 321.432722M ordinary shares; Q2 10-Q cover; STALE.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-09-15  (price cell AJ12)
+
+=ROUND(
+  321.432722 + N("Common 321.432722M ordinary shares; Q2 10-Q cover; STALE.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-10-01  (price cell AJ13)
+
+=ROUND(
+  321.432722 + N("Common 321.432722M ordinary shares; Q2 10-Q cover; STALE; conv notes issue Oct 2 (not yet).")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ 0 + N("Convertible senior notes not yet issued (priced 2025-09-29, issued 2025-10-02).")
+,3)
+
+### BTBT — 2025-10-15  (price cell AJ14)
+
+=ROUND(
+  321.432722 + N("Common 321.432722M ordinary shares; Q2 10-Q cover; STALE.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ14>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2025-11-01  (price cell AJ15)
+
+=ROUND(
+  321.432722 + N("Common 321.432722M ordinary shares; Q2 10-Q cover; STALE.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ15>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2025-11-15  (price cell AJ16)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 2025 10-Q cover (Nov 10), filed 2025-11-14.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ16>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2025-12-01  (price cell AJ17)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ17>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2025-12-15  (price cell AJ18)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ18>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-01-01  (price cell AJ19)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ19>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-01-15  (price cell AJ20)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ20>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-02-01  (price cell AJ21)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ21>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-02-15  (price cell AJ22)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ22>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-03-01  (price cell AJ23)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE (~4 months).")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ23>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-03-15  (price cell AJ24)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares; Q3 10-Q cover; STALE.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ24>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-04-01  (price cell AJ25)
+
+=ROUND(
+  326.577219 + N("Common 326.577219M ordinary shares; FY2025 10-K cover (Mar 24), filed 2026-03-27.")
++ 0.112228 + N("Unvested RSUs 0.112228M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ25>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-04-15  (price cell AJ26)
+
+=ROUND(
+  326.577219 + N("Common 326.577219M ordinary shares; FY2025 10-K cover; STALE.")
++ 0.112228 + N("Unvested RSUs 0.112228M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ26>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-05-01  (price cell AJ27)
+
+=ROUND(
+  326.577219 + N("Common 326.577219M ordinary shares; FY2025 10-K cover; STALE.")
++ 0.112228 + N("Unvested RSUs 0.112228M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ27>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-05-15  (price cell AJ28)
+
+=ROUND(
+  349.190420 + N("Common 349.190420M ordinary shares; Q1 2026 10-Q cover (May 11), filed 2026-05-15.")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ28>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-06-01  (price cell AJ29)
+
+=ROUND(
+  349.190420 + N("Common 349.190420M ordinary shares; Q1 2026 10-Q cover; STALE.")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ29>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-06-15  (price cell AJ30)
+
+=ROUND(
+  349.190420 + N("Common 349.190420M ordinary shares; Q1 2026 10-Q cover; STALE.")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ30>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+### BTBT — 2026-07-01  (price cell AJ31)
+
+=ROUND(
+  349.190420 + N("Common 349.190420M ordinary shares; Q1 2026 10-Q cover; STALE (~7 weeks; ATM ongoing).")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (modeled as full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 to ordinary (4.99% limit).")
++ IF(AJ31>=4.16, 150/4.16, 0) + N("$150.0MM 4.00% Convertible Senior Notes due 2030 (issued 2025-10-02); rate 240.3846/$1,000 = $4.16.")
+,3)
+
+
+
+## BIT DIGITAL (BTBT) — VERSION 2: ACTUAL SHARES (delta-reconstructed), col AJ rows 5-31
+
+### BTBT v2 (actual) — 2025-05-31  (AJ5)
+
+=ROUND(
+  208.100 + N("Common 208.100M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 (full add; OTM, expire 2025-07-25).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-06-15  (AJ6)
+
+=ROUND(
+  208.450 + N("Common 208.450M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 (full add; OTM, expire 2025-07-25).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-07-01  (AJ7)
+
+=ROUND(
+  295.302291 + N("Common 295.302291M ordinary shares [HARD (greenshoe close)] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 (full add; OTM, expire 2025-07-25).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-07-15  (AJ8)
+
+=ROUND(
+  319.575103 + N("Common 319.575103M ordinary shares [HARD (RDO close)] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 10.118046 + N("$7.91 PP warrants 10,118,046 (full add; OTM, expire 2025-07-25).")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-08-01  (AJ9)
+
+=ROUND(
+  320.600 + N("Common 320.600M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 1.036831 + N("Unvested RSUs 1.036831M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-08-15  (AJ10)
+
+=ROUND(
+  321.432722 + N("Common 321.432722M ordinary shares [HARD (Q2 cover)] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-09-01  (AJ11)
+
+=ROUND(
+  321.800 + N("Common 321.800M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-09-15  (AJ12)
+
+=ROUND(
+  322.000 + N("Common 322.000M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-10-01  (AJ13)
+
+=ROUND(
+  322.200 + N("Common 322.200M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ 0 + N("Conv senior notes not yet issued (issued 2025-10-02).")
+,3)
+
+### BTBT v2 (actual) — 2025-10-15  (AJ14)
+
+=ROUND(
+  322.800 + N("Common 322.800M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ14>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2025-11-01  (AJ15)
+
+=ROUND(
+  323.400 + N("Common 323.400M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 3.769914 + N("Unvested RSUs 3.769914M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ15>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2025-11-15  (AJ16)
+
+=ROUND(
+  323.674831 + N("Common 323.674831M ordinary shares [HARD (Q3 cover)] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ16>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2025-12-01  (AJ17)
+
+=ROUND(
+  323.900 + N("Common 323.900M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ17>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2025-12-15  (AJ18)
+
+=ROUND(
+  324.050 + N("Common 324.050M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ18>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-01-01  (AJ19)
+
+=ROUND(
+  324.192228 + N("Common 324.192228M ordinary shares [HARD (Dec31 BS)] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ19>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-01-15  (AJ20)
+
+=ROUND(
+  325.200 + N("Common 325.200M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ20>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-02-01  (AJ21)
+
+=ROUND(
+  325.800 + N("Common 325.800M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ21>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-02-15  (AJ22)
+
+=ROUND(
+  326.300 + N("Common 326.300M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ22>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-03-01  (AJ23)
+
+=ROUND(
+  326.500 + N("Common 326.500M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ23>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-03-15  (AJ24)
+
+=ROUND(
+  327.000 + N("Common 327.000M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.133198 + N("Unvested RSUs 0.133198M (latest 10-Q/10-K).")
++ 0.36 + N("Stock options 0.36M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ24>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-04-01  (AJ25)
+
+=ROUND(
+  334.000 + N("Common 334.000M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.112228 + N("Unvested RSUs 0.112228M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ25>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-04-15  (AJ26)
+
+=ROUND(
+  340.000 + N("Common 340.000M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.112228 + N("Unvested RSUs 0.112228M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ26>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-05-01  (AJ27)
+
+=ROUND(
+  346.000 + N("Common 346.000M ordinary shares [EST] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.112228 + N("Unvested RSUs 0.112228M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ27>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-05-15  (AJ28)
+
+=ROUND(
+  354.200 + N("Common 354.200M ordinary shares [SOFT (ATM total per Note22)] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ28>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-06-01  (AJ29)
+
+=ROUND(
+  357.000 + N("Common 357.000M ordinary shares [EXTRAP] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ29>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-06-15  (AJ30)
+
+=ROUND(
+  361.000 + N("Common 361.000M ordinary shares [EXTRAP] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ30>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+### BTBT v2 (actual) — 2026-07-01  (AJ31)
+
+=ROUND(
+  365.000 + N("Common 365.000M ordinary shares [EXTRAP] - delta-reconstructed actual from 207.780871M (2025-05-12 base) + dated offerings/ATM.")
++ 0.111097 + N("Unvested RSUs 0.111097M (latest 10-Q/10-K).")
++ 0.35 + N("Stock options 0.35M (full share add).")
++ 0 + N("$7.91 warrants expired 2025-07-25; 0 outstanding.")
++ 1 + N("Convertible preferred 1,000,000; 1-for-1 (4.99% limit).")
++ IF(AJ31>=4.16, 150/4.16, 0) + N("$150.0MM Conv Senior Notes 2030 (issued 2025-10-02); $4.16 conv.")
+,3)
+
+
+
+## UPEXI (UPXI) — VERSION 2: ACTUAL common (delta-reconstructed), col EU
+
+### UPXI v2 (actual) — Apr 15  (price cell EU26)
+
+=ROUND(
+  66.905000 + N("Common 66.905000M [MED (interp Mar31 66.896M - Apr20 66.916M; reflects Feb/Mar buybacks)] - delta-reconstructed from 69,760,581 (2026-02-09 base) +/- dated buybacks/ATM/PIPE.")
++ 4.552252 + N("RS/RSUs 4,717,750 (2025-12-31) less 165,498 vested.")
++ 0.744478*MAX(EU26-3.4,0)/EU26 + N("Stock options 744,478 @ $3.40 (2025-12-31).")
++ 2.192982*MAX(EU26-3.648,0)/EU26 + N("Asset manager warrants 2,192,982; ~$3.648.")
++ 3.289474*MAX(EU26-2.83,0)/EU26 + N("Private Placement Warrants 3,289,474 @ $2.83.")
++ 6.337*MAX(EU26-1.5,0)/EU26 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU26>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 @ $4.25.")
++ 0.186667*IF(EU26>3,1,0) + N("Promissory notes $560,000 if-converted @ $3.00; repayment not yet disclosed.")
++ 15.046852*IF(EU26>2.39,1,0) + N("Secured convertible note 2026-01-09 if-converted @ $2.39 (15,046,852).")
++ 0.138889 + N("Series A Preferred if-converted = 138,889.")
+,3)
+
+### UPXI v2 (actual) — May 1  (price cell EU27)
+
+=ROUND(
+  69.500000 + N("Common 69.500000M [LOW (interp Apr20 66.916M - May11 70.262M; ATM timing unknown)] - delta-reconstructed from 69,760,581 (2026-02-09 base) +/- dated buybacks/ATM/PIPE.")
++ 4.552252 + N("RS/RSUs 4,717,750 (2025-12-31) less 165,498 vested.")
++ 0.744478*MAX(EU27-3.4,0)/EU27 + N("Stock options 744,478 @ $3.40 (2025-12-31).")
++ 2.192982*MAX(EU27-3.648,0)/EU27 + N("Asset manager warrants 2,192,982; ~$3.648.")
++ 3.289474*MAX(EU27-2.83,0)/EU27 + N("Private Placement Warrants 3,289,474 @ $2.83.")
++ 6.337*MAX(EU27-1.5,0)/EU27 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU27>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 @ $4.25.")
++ 0.186667*IF(EU27>3,1,0) + N("Promissory notes $560,000 if-converted @ $3.00; repayment not yet disclosed.")
++ 15.046852*IF(EU27>2.39,1,0) + N("Secured convertible note 2026-01-09 if-converted @ $2.39 (15,046,852).")
++ 0.138889 + N("Series A Preferred if-converted = 138,889.")
+,3)
+
+### UPXI v2 (actual) — May 15  (price cell EU28)
+
+=ROUND(
+  70.261828 + N("Common 70.261828M [HARD (FY3Q26 10-Q cover, May 11)] - delta-reconstructed from 69,760,581 (2026-02-09 base) +/- dated buybacks/ATM/PIPE.")
++ 4.527252 + N("RS/RSUs 4,527,252 (2026-03-31, 10-Q).")
++ 0.669478*MAX(EU28-3.13,0)/EU28 + N("Stock options 669,478 @ $3.13 (2026-03-31).")
++ 2.192982*MAX(EU28-3.648,0)/EU28 + N("Asset manager warrants 2,192,982; ~$3.648.")
++ 3.289474*MAX(EU28-2.83,0)/EU28 + N("Private Placement Warrants 3,289,474 @ $2.83.")
++ 6.337*MAX(EU28-1.5,0)/EU28 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU28>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 @ $4.25.")
++ 0*IF(EU28>3,1,0) + N("Promissory notes REPAID; $0 as of 2026-03-31.")
++ 15.046852*IF(EU28>2.39,1,0) + N("Secured convertible note if-converted @ $2.39 (15,046,852); principal $35.962M.")
++ 0.138889 + N("Series A Preferred if-converted = 138,889.")
+,3)
+
+### UPXI v2 (actual) — Jun 1  (price cell EU29)
+
+=ROUND(
+  70.261828 + N("Common 70.261828M [LOW (stale; no disclosure May 11-Jun 21)] - delta-reconstructed from 69,760,581 (2026-02-09 base) +/- dated buybacks/ATM/PIPE.")
++ 4.527252 + N("RS/RSUs 4,527,252 (2026-03-31, 10-Q).")
++ 0.669478*MAX(EU29-3.13,0)/EU29 + N("Stock options 669,478 @ $3.13 (2026-03-31).")
++ 2.192982*MAX(EU29-3.648,0)/EU29 + N("Asset manager warrants 2,192,982; ~$3.648.")
++ 3.289474*MAX(EU29-2.83,0)/EU29 + N("Private Placement Warrants 3,289,474 @ $2.83.")
++ 6.337*MAX(EU29-1.5,0)/EU29 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU29>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 @ $4.25.")
++ 0*IF(EU29>3,1,0) + N("Promissory notes REPAID; $0 as of 2026-03-31.")
++ 15.046852*IF(EU29>2.39,1,0) + N("Secured convertible note if-converted @ $2.39 (15,046,852); principal $35.962M.")
++ 0.138889 + N("Series A Preferred if-converted = 138,889.")
+,3)
+
+### UPXI v2 (actual) — Jun 15  (price cell EU30)
+
+=ROUND(
+  70.261828 + N("Common 70.261828M [LOW (stale)] - delta-reconstructed from 69,760,581 (2026-02-09 base) +/- dated buybacks/ATM/PIPE.")
++ 4.527252 + N("RS/RSUs 4,527,252 (2026-03-31, 10-Q).")
++ 0.669478*MAX(EU30-3.13,0)/EU30 + N("Stock options 669,478 @ $3.13 (2026-03-31).")
++ 2.192982*MAX(EU30-3.648,0)/EU30 + N("Asset manager warrants 2,192,982; ~$3.648.")
++ 3.289474*MAX(EU30-2.83,0)/EU30 + N("Private Placement Warrants 3,289,474 @ $2.83.")
++ 6.337*MAX(EU30-1.5,0)/EU30 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU30>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 @ $4.25.")
++ 0*IF(EU30>3,1,0) + N("Promissory notes REPAID; $0 as of 2026-03-31.")
++ 15.046852*IF(EU30>2.39,1,0) + N("Secured convertible note if-converted @ $2.39 (15,046,852); principal $35.962M.")
++ 0.138889 + N("Series A Preferred if-converted = 138,889.")
+,3)
+
+### UPXI v2 (actual) — Jul 1  (price cell EU31)
+
+=ROUND(
+  75.511828 + N("Common 75.511828M [HARD base (May 11 70.262M + Jun 21 PP 5.25M); LOW for any post-Jun 21 activity] - delta-reconstructed from 69,760,581 (2026-02-09 base) +/- dated buybacks/ATM/PIPE.")
++ 4.527252 + N("RS/RSUs 4,527,252 (2026-03-31, 10-Q).")
++ 0.669478*MAX(EU31-3.13,0)/EU31 + N("Stock options 669,478 @ $3.13 (2026-03-31).")
++ 2.192982*MAX(EU31-3.648,0)/EU31 + N("Asset manager warrants 2,192,982; ~$3.648.")
++ 3.289474*MAX(EU31-2.83,0)/EU31 + N("Private Placement Warrants 3,289,474 @ $2.83.")
++ 6.337*MAX(EU31-1.5,0)/EU31 + N("Registered Direct Offering warrants 6,337,000 @ $1.50.")
++ 35.293206*IF(EU31>4.25,1,0) + N("July 2025 convertible notes -> ~35,293,206 @ $4.25.")
++ 0*IF(EU31>3,1,0) + N("Promissory notes REPAID; $0 as of 2026-03-31.")
++ 6.870017*IF(EU31>2.39,1,0) + N("Jan 2026 Note remaining $16,419,340.46 -> 6,870,017 @ $2.39 ($19.54M retired via Jun 21 deal).")
++ 6.9923*MAX(EU31-0.0001,0)/EU31 + N("Pre-Funded Warrants (Jun 21 PP) 6,992,300 @ $0.00001. (5.25M PP common already in the 75.511828 above - no separate line.)")
++ 0.138889 + N("Series A Preferred if-converted = 138,889.")
+,3)
+
+
+
+## NAKAMOTO (NAKA) — corrected (actual common, PFW double-count removed), col AJ rows 3-31
+
+### NAKA — 2025-05-01  (price cell AJ3)
+
+=ROUND(
+  6.030 + N("Common (actual) 6.030M ordinary shares [PRE-MERGER (KindlyMD)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 0.341 + N("RSUs + options (full add): 0.341M pre-merger.")
++ 0.621992*MAX(AJ3-6.33,0)/AJ3 + N("IPO warrants 0.621992M @ $6.33.")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-05-15  (price cell AJ4)
+
+=ROUND(
+  6.030 + N("Common (actual) 6.030M ordinary shares [PRE-MERGER]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 0.341 + N("RSUs + options (full add): 0.341M pre-merger.")
++ 0.621992*MAX(AJ4-6.33,0)/AJ4 + N("IPO warrants 0.621992M @ $6.33.")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-06-01  (price cell AJ5)
+
+=ROUND(
+  6.030 + N("Common (actual) 6.030M ordinary shares [PRE-MERGER]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 0.341 + N("RSUs + options (full add): 0.341M pre-merger.")
++ 0.621992*MAX(AJ5-6.33,0)/AJ5 + N("IPO warrants 0.621992M @ $6.33.")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-06-15  (price cell AJ6)
+
+=ROUND(
+  6.030 + N("Common (actual) 6.030M ordinary shares [PRE-MERGER]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 0.341 + N("RSUs + options (full add): 0.341M pre-merger.")
++ 0.621992*MAX(AJ6-6.33,0)/AJ6 + N("IPO warrants 0.621992M @ $6.33.")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-07-01  (price cell AJ7)
+
+=ROUND(
+  6.030 + N("Common (actual) 6.030M ordinary shares [PRE-MERGER]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 0.341 + N("RSUs + options (full add): 0.341M pre-merger.")
++ 0.621992*MAX(AJ7-6.33,0)/AJ7 + N("IPO warrants 0.621992M @ $6.33.")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-07-15  (price cell AJ8)
+
+=ROUND(
+  6.030 + N("Common (actual) 6.030M ordinary shares [PRE-MERGER]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 0.341 + N("RSUs + options (full add): 0.341M pre-merger.")
++ 0.621992*MAX(AJ8-6.33,0)/AJ8 + N("IPO warrants 0.621992M @ $6.33.")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-08-01  (price cell AJ9)
+
+=ROUND(
+  6.030 + N("Common (actual) 6.030M ordinary shares [PRE-MERGER (Q2 filed Aug 5, not yet)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 0.341 + N("RSUs + options (full add): 0.341M pre-merger.")
++ 0.621992*MAX(AJ9-6.33,0)/AJ9 + N("IPO warrants 0.621992M @ $6.33.")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-08-15  (price cell AJ10)
+
+=ROUND(
+  394.000 + N("Common (actual) 394.000M ordinary shares [MERGER CLOSE Aug 14 (E)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ10-6.33,0)/AJ10 + N("IPO warrants 0.588501M @ $6.33.")
++ 133.801*MAX(AJ10-0.001,0)/AJ10 + N("Pre-Funded Warrants 133.801M @ $0.001 (issued at merger; declining via exercise).")
++ 71.428571*IF(AJ10>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) if-converted @ $2.80 = up to 71,428,571 sh; outstanding Aug 15-Sep 29 2025 only.")
+,3)
+
+### NAKA — 2025-09-01  (price cell AJ11)
+
+=ROUND(
+  420.000 + N("Common (actual) 420.000M ordinary shares [E; CDB outstanding]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ11-6.33,0)/AJ11 + N("IPO warrants 0.588501M @ $6.33.")
++ 105.000*MAX(AJ11-0.001,0)/AJ11 + N("Pre-Funded Warrants 105.000M @ $0.001 (issued at merger; declining via exercise).")
++ 71.428571*IF(AJ11>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) if-converted @ $2.80 = up to 71,428,571 sh; outstanding Aug 15-Sep 29 2025 only.")
+,3)
+
+### NAKA — 2025-09-15  (price cell AJ12)
+
+=ROUND(
+  425.000 + N("Common (actual) 425.000M ordinary shares [E; CDB outstanding (redeemed Sep 29)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ12-6.33,0)/AJ12 + N("IPO warrants 0.588501M @ $6.33.")
++ 86.000*MAX(AJ12-0.001,0)/AJ12 + N("Pre-Funded Warrants 86.000M @ $0.001 (issued at merger; declining via exercise).")
++ 71.428571*IF(AJ12>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) if-converted @ $2.80 = up to 71,428,571 sh; outstanding Aug 15-Sep 29 2025 only.")
+,3)
+
+### NAKA — 2025-10-01  (price cell AJ13)
+
+=ROUND(
+  427.153 + N("Common (actual) 427.153M ordinary shares [HARD Q3 10-Q (Sep 30); CDB redeemed]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ13-6.33,0)/AJ13 + N("IPO warrants 0.588501M @ $6.33.")
++ 84.503*MAX(AJ13-0.001,0)/AJ13 + N("Pre-Funded Warrants 84.503M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-10-15  (price cell AJ14)
+
+=ROUND(
+  432.000 + N("Common (actual) 432.000M ordinary shares [E]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ14-6.33,0)/AJ14 + N("IPO warrants 0.588501M @ $6.33.")
++ 79.000*MAX(AJ14-0.001,0)/AJ14 + N("Pre-Funded Warrants 79.000M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-11-01  (price cell AJ15)
+
+=ROUND(
+  435.000 + N("Common (actual) 435.000M ordinary shares [E]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ15-6.33,0)/AJ15 + N("IPO warrants 0.588501M @ $6.33.")
++ 75.000*MAX(AJ15-0.001,0)/AJ15 + N("Pre-Funded Warrants 75.000M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-11-15  (price cell AJ16)
+
+=ROUND(
+  439.851 + N("Common (actual) 439.851M ordinary shares [HARD Q3 10-Q cover (Nov 14)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ16-6.33,0)/AJ16 + N("IPO warrants 0.588501M @ $6.33.")
++ 71.705*MAX(AJ16-0.001,0)/AJ16 + N("Pre-Funded Warrants 71.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-12-01  (price cell AJ17)
+
+=ROUND(
+  439.000 + N("Common (actual) 439.000M ordinary shares [E]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ17-6.33,0)/AJ17 + N("IPO warrants 0.588501M @ $6.33.")
++ 71.705*MAX(AJ17-0.001,0)/AJ17 + N("Pre-Funded Warrants 71.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2025-12-15  (price cell AJ18)
+
+=ROUND(
+  438.500 + N("Common (actual) 438.500M ordinary shares [E]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ18-6.33,0)/AJ18 + N("IPO warrants 0.588501M @ $6.33.")
++ 71.705*MAX(AJ18-0.001,0)/AJ18 + N("Pre-Funded Warrants 71.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-01-01  (price cell AJ19)
+
+=ROUND(
+  437.946 + N("Common (actual) 437.946M ordinary shares [HARD 10-K (Dec 31)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ19-6.33,0)/AJ19 + N("IPO warrants 0.588501M @ $6.33.")
++ 71.705*MAX(AJ19-0.001,0)/AJ19 + N("Pre-Funded Warrants 71.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-01-15  (price cell AJ20)
+
+=ROUND(
+  437.946 + N("Common (actual) 437.946M ordinary shares [STALE (pre-BTC Inc merger)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ20-6.33,0)/AJ20 + N("IPO warrants 0.588501M @ $6.33.")
++ 71.705*MAX(AJ20-0.001,0)/AJ20 + N("Pre-Funded Warrants 71.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-02-01  (price cell AJ21)
+
+=ROUND(
+  437.946 + N("Common (actual) 437.946M ordinary shares [STALE]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ21-6.33,0)/AJ21 + N("IPO warrants 0.588501M @ $6.33.")
++ 71.705*MAX(AJ21-0.001,0)/AJ21 + N("Pre-Funded Warrants 71.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-02-15  (price cell AJ22)
+
+=ROUND(
+  437.946 + N("Common (actual) 437.946M ordinary shares [STALE (BTC Inc merger Feb 20 imminent)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ22-6.33,0)/AJ22 + N("IPO warrants 0.588501M @ $6.33.")
++ 71.705*MAX(AJ22-0.001,0)/AJ22 + N("Pre-Funded Warrants 71.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-03-01  (price cell AJ23)
+
+=ROUND(
+  685.000 + N("Common (actual) 685.000M ordinary shares [E; BTC Inc + UTXO merger closed Feb 20 (+~235M)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ23-6.33,0)/AJ23 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ23-0.001,0)/AJ23 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-03-15  (price cell AJ24)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [~E (10-K cover Mar 23)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ24-6.33,0)/AJ24 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ24-0.001,0)/AJ24 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-04-01  (price cell AJ25)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [HARD 10-K cover (Mar 23)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ25-6.33,0)/AJ25 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ25-0.001,0)/AJ25 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-04-15  (price cell AJ26)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [STALE]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ26-6.33,0)/AJ26 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ26-0.001,0)/AJ26 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-05-01  (price cell AJ27)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [STALE]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ27-6.33,0)/AJ27 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ27-0.001,0)/AJ27 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-05-15  (price cell AJ28)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [HARD Q1 10-Q (Mar 31)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ28-6.33,0)/AJ28 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ28-0.001,0)/AJ28 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-06-01  (price cell AJ29)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [STALE]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ29-6.33,0)/AJ29 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ29-0.001,0)/AJ29 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-06-15  (price cell AJ30)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [STALE]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ30-6.33,0)/AJ30 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ30-0.001,0)/AJ30 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+### NAKA — 2026-07-01  (price cell AJ31)
+
+=ROUND(
+  690.018 + N("Common (actual) 690.018M ordinary shares [STALE (no update since Mar 31)]. NOTE: baseline 672.95M was the POS AM selling-stockholder denominator (= actual + PFW + CD shares) => double-counted; use actual.")
++ 15.899 + N("RSUs + options (full add): 15.899M 2025 RSU grants.")
++ 0.588501*MAX(AJ31-6.33,0)/AJ31 + N("IPO warrants 0.588501M @ $6.33.")
++ 61.705*MAX(AJ31-0.001,0)/AJ31 + N("Pre-Funded Warrants 61.705M @ $0.001 (issued at merger; declining via exercise).")
++ 0 + N("Convertible Debenture: 0 (issued Aug 15 2025, redeemed Sep 29 2025).")
+,3)
+
+
+
+## TWENTY ONE CAPITAL (XXI) — col AJ rows 3-31 (LET form)
+
+### XXI — 2025-05-01  (price cell AJ3)
+
+=LET(P, AJ3,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-05-15  (price cell AJ4)
+
+=LET(P, AJ4,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-06-01  (price cell AJ5)
+
+=LET(P, AJ5,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-06-15  (price cell AJ6)
+
+=LET(P, AJ6,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-07-01  (price cell AJ7)
+
+=LET(P, AJ7,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-07-15  (price cell AJ8)
+
+=LET(P, AJ8,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-08-01  (price cell AJ9)
+
+=LET(P, AJ9,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-08-15  (price cell AJ10)
+
+=LET(P, AJ10,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-09-01  (price cell AJ11)
+
+=LET(P, AJ11,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-09-15  (price cell AJ12)
+
+=LET(P, AJ12,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-10-01  (price cell AJ13)
+
+=LET(P, AJ13,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-10-15  (price cell AJ14)
+
+=LET(P, AJ14,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-11-01  (price cell AJ15)
+
+=LET(P, AJ15,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-11-15  (price cell AJ16)
+
+=LET(P, AJ16,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-12-01  (price cell AJ17)
+
+=LET(P, AJ17,
+  CS, 10300000 + N("PRE-CLOSE: CEP SPAC Class A 10,300,000 (10M public + 0.3M PP; +2.5M Class B founder). Merger closed 2025-12-08; post-close pro-forma 346,548,153 per S-4 (filed 2025-09-15)."),
+  RSU, 0, OPT_EXEC, 0, OPT_EXEC_K, 14.43, OPT_GC, 0, OPT_GC_K, 9.3, CN_SH, 0, CN_K, 1000/72.0841,
+  ROUND(CS/1000000, 3))
+
+### XXI — 2025-12-15  (price cell AJ18)
+
+=LET(P, AJ18,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 941620 + N("Options CEO 12,179,268 + CFO 941,620 (initial) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 0 + N("GC options not yet granted (granted 2026-01-02)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-01-01  (price cell AJ19)
+
+=LET(P, AJ19,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 941620 + N("Options CEO 12,179,268 + CFO 941,620 (initial) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 0 + N("GC options not yet granted (granted 2026-01-02)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-01-15  (price cell AJ20)
+
+=LET(P, AJ20,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-02-01  (price cell AJ21)
+
+=LET(P, AJ21,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-02-15  (price cell AJ22)
+
+=LET(P, AJ22,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-03-01  (price cell AJ23)
+
+=LET(P, AJ23,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-03-15  (price cell AJ24)
+
+=LET(P, AJ24,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-04-01  (price cell AJ25)
+
+=LET(P, AJ25,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-04-15  (price cell AJ26)
+
+=LET(P, AJ26,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-05-01  (price cell AJ27)
+
+=LET(P, AJ27,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-05-15  (price cell AJ28)
+
+=LET(P, AJ28,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-06-01  (price cell AJ29)
+
+=LET(P, AJ29,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-06-15  (price cell AJ30)
+
+=LET(P, AJ30,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI — 2026-07-01  (price cell AJ31)
+
+=LET(P, AJ31,
+  CS, 346548153 + N("Class A 346,548,153 (post-close, unchanged through Q1 2026 per 10-K/10-Q)."),
+  RSU, 3215732 + 248619 + N("RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Options CEO 12,179,268 + CFO 970,201 (amended) @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Options GC (James Nguyen) 297,029 @ $9.30, granted 2026-01-02"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912 sh; issued 2025-12-08; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+
+
+## TWENTY ONE (XXI) — PRE-CLOSE nodes REVISED to PRO-FORMA FD (AJ3-AJ17)
+(AJ18-AJ31 post-close unchanged from prior version)
+
+### XXI v2 (pro-forma pre-close) — 2025-05-01  (AJ3)
+
+=LET(P, AJ3,
+  CS, 308957046 + N("PRO-FORMA Class A 308,957,046 (pre-June-Amendment: 267.32M merger + 10M public + 3.78M sponsor + 27.86M PIPE) per April deck / BCA; use pro-forma FD as market prices in the deal."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-05-15  (AJ4)
+
+=LET(P, AJ4,
+  CS, 308957046 + N("PRO-FORMA Class A 308,957,046 (pre-June-Amendment: 267.32M merger + 10M public + 3.78M sponsor + 27.86M PIPE) per April deck / BCA; use pro-forma FD as market prices in the deal."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-06-01  (AJ5)
+
+=LET(P, AJ5,
+  CS, 308957046 + N("PRO-FORMA Class A 308,957,046 (pre-June-Amendment: 267.32M merger + 10M public + 3.78M sponsor + 27.86M PIPE) per April deck / BCA; use pro-forma FD as market prices in the deal."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-06-15  (AJ6)
+
+=LET(P, AJ6,
+  CS, 308957046 + N("PRO-FORMA Class A 308,957,046 (pre-June-Amendment: 267.32M merger + 10M public + 3.78M sponsor + 27.86M PIPE) per April deck / BCA; use pro-forma FD as market prices in the deal."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-07-01  (AJ7)
+
+=LET(P, AJ7,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-07-15  (AJ8)
+
+=LET(P, AJ8,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-08-01  (AJ9)
+
+=LET(P, AJ9,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-08-15  (AJ10)
+
+=LET(P, AJ10,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-09-01  (AJ11)
+
+=LET(P, AJ11,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-09-15  (AJ12)
+
+=LET(P, AJ12,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-10-01  (AJ13)
+
+=LET(P, AJ13,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-10-15  (AJ14)
+
+=LET(P, AJ14,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-11-01  (AJ15)
+
+=LET(P, AJ15,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-11-15  (AJ16)
+
+=LET(P, AJ16,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+### XXI v2 (pro-forma pre-close) — 2025-12-01  (AJ17)
+
+=LET(P, AJ17,
+  CS, 346489560 + N("PRO-FORMA Class A 346,489,560 (S-4 No-Redemptions, post-June-Amendment incl +37.53M additional-BTC shares) per S-4 filed 2025-09-15; market prices in pro-forma FD."),
+  RSU, 3215732 + 248619 + N("Pro-forma RSU: CEO 3,215,732 + CFO 248,619"),
+  OPT_EXEC, 12179268 + 970201 + N("Pro-forma exec options CEO+CFO @ $14.43"), OPT_EXEC_K, 14.43,
+  OPT_GC, 297029 + N("Pro-forma GC options 297,029 @ $9.30 (mgmt incentive plan)"), OPT_GC_K, 9.3,
+  CN_SH, 35068912 + N("Pro-forma Convertible Notes $486.5M x 72.0841 per 1000 = 35,068,912; conv ~$13.87"), CN_K, 1000/72.0841,
+  ROUND((CS+RSU)/1000000 + (OPT_EXEC/1000000)*MAX(P-OPT_EXEC_K,0)/P + (OPT_GC/1000000)*MAX(P-OPT_GC_K,0)/P + (CN_SH/1000000)*IF(P>CN_K,1,0), 3))
+
+
+
+## NAKAMOTO (NAKA) — PRE-CLOSE nodes REVISED to PRO-FORMA FD (AJ3 standalone; AJ4-AJ9 pro-forma)
+(AJ10-AJ31 post-close unchanged)
+
+### NAKA v2 (pre-close pro-forma) — 2025-05-01  (AJ3)  [pre-announcement, KindlyMD standalone]
+
+=ROUND(
+  6.030 + N("PRE-ANNOUNCEMENT: KindlyMD standalone ~6,029,648 shares (reverse merger with Nakamoto announced 2025-05-12).")
++ 0.341 + N("KindlyMD options+RSU ~0.341M.")
++ 2.718535*MAX(AJ3-6.33,0)/AJ3 + N("KindlyMD IPO/underwriter warrants 2,718,535 @ $6.33 (FY2024 10-K).")
++ 0 + N("Pre-Funded Warrants: none (pre-merger).")
++ 0 + N("Convertible Debenture: none (pre-announcement).")
+,3)
+
+### NAKA v2 (pre-close pro-forma) — 2025-05-15  (AJ4)
+
+=ROUND(
+  394.000 + N("PRO-FORMA FD (reverse merger announced 2025-05-12, closed 2025-08-14): common ~394M at close (KindlyMD 7.6M + Nakamoto 22.3M + ~351.5M PIPE common @ $1.12/$5.00). Market prices pro-forma pre-close.")
++ 15.899 + N("Pro-forma RSU/options 15.899M (2025 grants).")
++ 0.588501*MAX(AJ4-6.33,0)/AJ4 + N("IPO warrants 0.588501M @ $6.33.")
++ 133.801*MAX(AJ4-0.001,0)/AJ4 + N("Pre-Funded Warrants 133,800,773 @ $0.001 (PIPE; ~full add).")
++ 71.428571*IF(AJ4>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) @ $2.80 = up to 71,428,571 sh; part of 05-12 deal financing (redeemed Sep 29 post-close).")
+,3)
+
+### NAKA v2 (pre-close pro-forma) — 2025-06-01  (AJ5)
+
+=ROUND(
+  394.000 + N("PRO-FORMA FD (reverse merger announced 2025-05-12, closed 2025-08-14): common ~394M at close (KindlyMD 7.6M + Nakamoto 22.3M + ~351.5M PIPE common @ $1.12/$5.00). Market prices pro-forma pre-close.")
++ 15.899 + N("Pro-forma RSU/options 15.899M (2025 grants).")
++ 0.588501*MAX(AJ5-6.33,0)/AJ5 + N("IPO warrants 0.588501M @ $6.33.")
++ 133.801*MAX(AJ5-0.001,0)/AJ5 + N("Pre-Funded Warrants 133,800,773 @ $0.001 (PIPE; ~full add).")
++ 71.428571*IF(AJ5>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) @ $2.80 = up to 71,428,571 sh; part of 05-12 deal financing (redeemed Sep 29 post-close).")
+,3)
+
+### NAKA v2 (pre-close pro-forma) — 2025-06-15  (AJ6)
+
+=ROUND(
+  394.000 + N("PRO-FORMA FD (reverse merger announced 2025-05-12, closed 2025-08-14): common ~394M at close (KindlyMD 7.6M + Nakamoto 22.3M + ~351.5M PIPE common @ $1.12/$5.00). Market prices pro-forma pre-close.")
++ 15.899 + N("Pro-forma RSU/options 15.899M (2025 grants).")
++ 0.588501*MAX(AJ6-6.33,0)/AJ6 + N("IPO warrants 0.588501M @ $6.33.")
++ 133.801*MAX(AJ6-0.001,0)/AJ6 + N("Pre-Funded Warrants 133,800,773 @ $0.001 (PIPE; ~full add).")
++ 71.428571*IF(AJ6>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) @ $2.80 = up to 71,428,571 sh; part of 05-12 deal financing (redeemed Sep 29 post-close).")
+,3)
+
+### NAKA v2 (pre-close pro-forma) — 2025-07-01  (AJ7)
+
+=ROUND(
+  394.000 + N("PRO-FORMA FD (reverse merger announced 2025-05-12, closed 2025-08-14): common ~394M at close (KindlyMD 7.6M + Nakamoto 22.3M + ~351.5M PIPE common @ $1.12/$5.00). Market prices pro-forma pre-close.")
++ 15.899 + N("Pro-forma RSU/options 15.899M (2025 grants).")
++ 0.588501*MAX(AJ7-6.33,0)/AJ7 + N("IPO warrants 0.588501M @ $6.33.")
++ 133.801*MAX(AJ7-0.001,0)/AJ7 + N("Pre-Funded Warrants 133,800,773 @ $0.001 (PIPE; ~full add).")
++ 71.428571*IF(AJ7>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) @ $2.80 = up to 71,428,571 sh; part of 05-12 deal financing (redeemed Sep 29 post-close).")
+,3)
+
+### NAKA v2 (pre-close pro-forma) — 2025-07-15  (AJ8)
+
+=ROUND(
+  394.000 + N("PRO-FORMA FD (reverse merger announced 2025-05-12, closed 2025-08-14): common ~394M at close (KindlyMD 7.6M + Nakamoto 22.3M + ~351.5M PIPE common @ $1.12/$5.00). Market prices pro-forma pre-close.")
++ 15.899 + N("Pro-forma RSU/options 15.899M (2025 grants).")
++ 0.588501*MAX(AJ8-6.33,0)/AJ8 + N("IPO warrants 0.588501M @ $6.33.")
++ 133.801*MAX(AJ8-0.001,0)/AJ8 + N("Pre-Funded Warrants 133,800,773 @ $0.001 (PIPE; ~full add).")
++ 71.428571*IF(AJ8>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) @ $2.80 = up to 71,428,571 sh; part of 05-12 deal financing (redeemed Sep 29 post-close).")
+,3)
+
+### NAKA v2 (pre-close pro-forma) — 2025-08-01  (AJ9)
+
+=ROUND(
+  394.000 + N("PRO-FORMA FD (reverse merger announced 2025-05-12, closed 2025-08-14): common ~394M at close (KindlyMD 7.6M + Nakamoto 22.3M + ~351.5M PIPE common @ $1.12/$5.00). Market prices pro-forma pre-close.")
++ 15.899 + N("Pro-forma RSU/options 15.899M (2025 grants).")
++ 0.588501*MAX(AJ9-6.33,0)/AJ9 + N("IPO warrants 0.588501M @ $6.33.")
++ 133.801*MAX(AJ9-0.001,0)/AJ9 + N("Pre-Funded Warrants 133,800,773 @ $0.001 (PIPE; ~full add).")
++ 71.428571*IF(AJ9>2.8,1,0) + N("$200M Secured Convertible Debenture (Yorkville) @ $2.80 = up to 71,428,571 sh; part of 05-12 deal financing (redeemed Sep 29 post-close).")
+,3)
+

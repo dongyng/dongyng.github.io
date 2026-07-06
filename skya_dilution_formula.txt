@@ -1,0 +1,202 @@
+================================================================================
+SkyAI, Inc. (SKYA, fka STSS, CIK 0001737995)
+Fully-Diluted Share-Count Formula Reconstruction
+Reference Dates: Apr 15 / May 1 / May 15 / Jun 1 / Jun 15 / Jul 1, 2026
+================================================================================
+
+SOURCES:
+  424B3 (2026-01-13): https://www.sec.gov/Archives/edgar/data/1737995/000149315226002046/
+  10-K  (2026-03-31): https://www.sec.gov/Archives/edgar/data/1737995/000149315226014261/
+  10-Q  (2026-05-14): https://www.sec.gov/Archives/edgar/data/1737995/000149315226023214/
+  13D/A (2026-02-13): https://www.sec.gov/Archives/edgar/data/1737995/000119312526051654/
+  13G  (2026-01-26): 33,363,003 sh out as of 2026-01-20; ~34M as of 2026-01-26
+  13G/A(2026-05-15): 42,322,168 sh out as of 2026-05-08
+  8-K  (2026-05-29): CFO appointment; name SkyAI, Inc.
+  8-K  (2026-06-01): Name change effective 2026-05-26; ticker STSS→SKYA 2026-05-28;
+                    strategic pivot to agentic-finance platform
+
+KEY CORRECTIONS TO BASELINE (discovered in later filings):
+  a) Strategic-advisor warrants: 424B3 said 6,013,675; actual = 6,321,367
+     (per 10-K Note 10 / 10-Q Note 10).
+  b) Pre-funded warrants at 2025-12-31: 37,717,312 (10-K), not 37,371,158 (424B3).
+     Additional ~346K pre-funded warrants were apparently issued between the
+     424B3 reference date and 2025-12-31.
+  c) Repriced "Existing Warrants" (Series A at $6.50): 328,196 originally; only
+     12,391 remained outstanding at 2025-12-31 (315,805 exercised per 10-Q).
+     Exercised portion is now in common shares.
+  d) Stock options at 2025-12-31: 1,875,482 at wavg $9.76 (10-K); the baseline's
+     1,785,495 @ $6.41 was an approximation of the main grant bucket only.
+
+NO REVERSE/FORWARD SPLITS between baseline and Jul 1, 2026.
+NO ATM SALES in Q1 2026 (10-Q confirms zero).
+NO new equity instruments (warrants, converts, PIPE, RSUs) issued between
+  2026-01-27 and 2026-07-01 detected in any filing.  The SOL-treasury pivot
+  and SkyAI rebrand (~May 2026) did NOT involve new securities issuances
+  (8-Ks 2026-05-29, 2026-06-01 describe name change and strategy only).
+
+WARRANT EXERCISE TRACKER (Q1 2026, per 10-Q Note 10):
+  9,401,702 Cash & Crypto Pre-funded warrants exercised
+  1,892,900 Strategic Advisor warrants exercised
+  11,294,602 total → common shares issued: 28,995,403 → 40,290,005
+
+================================================================================
+TABLE: Component Counts (in millions, unless noted)
+================================================================================
+
+Component                | Apr 15    | May 1     | May 15    | Jun 1     | Jun 15    | Jul 1
+-------------------------|-----------|-----------|-----------|-----------|-----------|----------
+Common shares O/S        | 38.664571 | 38.664571 | 42.322168 | 42.322168 | 42.322168 | 42.322168
+  as-of date             | 2026-03-24| 2026-03-24| 2026-05-08| 2026-05-08| 2026-05-08| 2026-05-08
+  published              | 2026-03-31| 2026-03-31| 2026-05-14| 2026-05-14| 2026-05-14| 2026-05-14
+  source                 | 10-K cover| 10-K cover| 10-Q cover| 10-Q cover| 10-Q cover| 10-Q cover
+Stapled warrants ($9.75) | 63.213672 | 63.213672 | 63.213672 | 63.213672 | 63.213672 | 63.213672
+  as-of date             | 2025-12-31| 2025-12-31| 2026-03-31| 2026-03-31| 2026-03-31| 2026-03-31
+  source                 | 10-K N.10 | 10-K N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10
+Pre-funded ($0.0001)     | 37.717312*| 37.717312*| 28.315610 | 28.315610 | 28.315610 | 28.315610
+  as-of date             | 2025-12-31| 2025-12-31| 2026-03-31| 2026-03-31| 2026-03-31| 2026-03-31
+  source                 | 10-K N.10 | 10-K N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10
+Strategic advisor ($0.0001)|6.321367* | 6.321367* | 4.428467  | 4.428467  | 4.428467  | 4.428467
+  as-of date             | 2025-12-31| 2025-12-31| 2026-03-31| 2026-03-31| 2026-03-31| 2026-03-31
+  source                 | 10-K N.10 | 10-K N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10
+Stock options (wavg)     | 1.875482  | 1.875482  | 1.855482  | 1.855482  | 1.855482  | 1.855482
+  strike                 | $9.76     | $9.76     | $9.80     | $9.80     | $9.80     | $9.80
+  as-of date             | 2025-12-31| 2025-12-31| 2026-03-31| 2026-03-31| 2026-03-31| 2026-03-31
+  source                 | 10-K N.9  | 10-K N.9  | 10-Q N.11 | 10-Q N.11 | 10-Q N.11 | 10-Q N.11
+Repriced warrants ($6.50)| 0.012391  | 0.012391  | 0.012391  | 0.012391  | 0.012391  | 0.012391
+  as-of date             | 2025-12-31| 2025-12-31| 2026-03-31| 2026-03-31| 2026-03-31| 2026-03-31
+  source                 | 10-K N.10 | 10-K N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10 | 10-Q N.10
+
+* = INCONSISTENCY NOTE: For Apr 15 & May 1, common shares are as of 2026-03-24
+  (already reflecting ~9.67M warrant exercises since 2025-12-31), but warrant
+  counts are as of 2025-12-31 (latest published before these dates).  The
+  formula DOUBLE-COUNTS ~9.67M shares that were exercised between Dec 31 and
+  Mar 24.  See §CAVEAT below.
+
+ADDITIONAL TINY WARRANT CLASSES (included for completeness, omitted from formula):
+  Trading/Overallotment: 1,335  Note Warrants: 36  May 2024 Offering: 453
+  Jan 2025 Series B: 5,307  Services Arrangement: 72,094
+  (All unchanged Dec 31 → Mar 31 except May 2024 went from 869 to 453.)
+
+================================================================================
+FORMULAS (price cell = DS25, output in millions, ROUND to 3 dp)
+================================================================================
+
+--- APR 15, 2026 (as-of dates: common 2026-03-24; warrants/options 2025-12-31) ---
+=ROUND(
+  38.664571 + N("Common O/S 38,664,571 as of 2026-03-24 per 10-K cover (filed 2026-03-31).")
++ 63.213672*MAX(DS25-9.75,0)/DS25 + N("Stapled warrants 63.213672MM @ $9.75 as of 2025-12-31 per 10-K Note 10.")
++ 37.717312*MAX(DS25-0.0001,0)/DS25 + N("Pre-funded warrants 37.717312MM @ $0.0001 as of 2025-12-31 per 10-K Note 10. NOTE: ~9.67M of these were already exercised by 2026-03-24 (entered common); using Dec-31 figure OVERSTATES dilution because common already includes them.")
++ 6.321367*MAX(DS25-0.0001,0)/DS25 + N("Strategic advisor warrants 6.321367MM @ $0.0001 as of 2025-12-31 per 10-K Note 10 (NOT 6.013675MM as in 424B3). Same overstatement note as pre-funded.")
++ 1.875482*MAX(DS25-9.76,0)/DS25 + N("Stock options 1.875482MM at wavg $9.76 as of 2025-12-31 per 10-K Note 9. Baseline's $6.41 bucket was incomplete—options span $5.78-$6,072; wavg=$9.76.")
++ 0.012391*MAX(DS25-6.50,0)/DS25 + N("Repriced Series A warrants 12,391 @ $6.50 as of 2025-12-31 per 10-K Note 10 (baseline had 328,196; 315,805 already exercised → now in common).")
+,3)
+
+--- MAY 1, 2026 (identical to Apr 15 — same filings) ---
+=ROUND(
+  38.664571 + N("Common O/S 38,664,571 as of 2026-03-24 per 10-K cover (filed 2026-03-31). No newer data by May 1.")
++ 63.213672*MAX(DS25-9.75,0)/DS25 + N("Stapled warrants 63.213672MM @ $9.75 as of 2025-12-31.")
++ 37.717312*MAX(DS25-0.0001,0)/DS25 + N("Pre-funded warrants 37.717312MM @ $0.0001 as of 2025-12-31. OVERSTATEMENT note applies.")
++ 6.321367*MAX(DS25-0.0001,0)/DS25 + N("Strategic advisor warrants 6.321367MM @ $0.0001 as of 2025-12-31. OVERSTATEMENT note applies.")
++ 1.875482*MAX(DS25-9.76,0)/DS25 + N("Stock options 1.875482MM wavg $9.76 as of 2025-12-31.")
++ 0.012391*MAX(DS25-6.50,0)/DS25 + N("Repriced Series A warrants 12,391 @ $6.50 as of 2025-12-31.")
+,3)
+
+--- MAY 15, 2026 (as-of: common 2026-05-08; warrants/options 2026-03-31) ---
+=ROUND(
+  42.322168 + N("Common O/S 42,322,168 as of 2026-05-08 per 10-Q cover (filed 2026-05-14).")
++ 63.213672*MAX(DS25-9.75,0)/DS25 + N("Stapled warrants 63.213672MM @ $9.75 as of 2026-03-31 per 10-Q Note 10. Unchanged; no exercises detected.")
++ 28.315610*MAX(DS25-0.0001,0)/DS25 + N("Pre-funded warrants 28.315610MM @ $0.0001 as of 2026-03-31 per 10-Q Note 10. Q1 exercises: 9.401702MM. NOTE: common at May 8 includes ~2.9M additional exercises after Mar 31 that reduced this further—see caveat.")
++ 4.428467*MAX(DS25-0.0001,0)/DS25 + N("Strategic advisor warrants 4.428467MM @ $0.0001 as of 2026-03-31 per 10-Q Note 10. Q1 exercises: 1.892900MM.")
++ 1.855482*MAX(DS25-9.80,0)/DS25 + N("Stock options 1.855482MM wavg $9.80 as of 2026-03-31 per 10-Q Note 11 (20,000 forfeited in Q1).")
++ 0.012391*MAX(DS25-6.50,0)/DS25 + N("Repriced Series A warrants 12,391 @ $6.50 as of 2026-03-31 per 10-Q Note 10.")
++ 0.005307*MAX(DS25-0.292,0)/DS25 + N("Series B warrants 5,307 @ $0.292 (floor-adjusted per 10-Q Note 10). Baseline omitted these; now material since strike is deep ITM.")
+,3)
+
+--- JUN 1 / JUN 15 / JUL 1, 2026 (identical to May 15 — no newer data) ---
+=ROUND(
+  42.322168 + N("Common O/S 42,322,168 as of 2026-05-08 per 10-Q (filed 2026-05-14). No newer filing with share count by Jul 1.")
++ 63.213672*MAX(DS25-9.75,0)/DS25 + N("Stapled warrants 63.213672MM @ $9.75 as of 2026-03-31.")
++ 28.315610*MAX(DS25-0.0001,0)/DS25 + N("Pre-funded warrants 28.315610MM @ $0.0001 as of 2026-03-31. NOTE: additional exercises after Mar 31 are reflected in the higher May 8 common count but not subtracted from this warrant line = DOUBLE-COUNT of ~2.5M shares.")
++ 4.428467*MAX(DS25-0.0001,0)/DS25 + N("Strategic advisor warrants 4.428467MM @ $0.0001 as of 2026-03-31. Same double-count note.")
++ 1.855482*MAX(DS25-9.80,0)/DS25 + N("Stock options 1.855482MM wavg $9.80 as of 2026-03-31.")
++ 0.012391*MAX(DS25-6.50,0)/DS25 + N("Repriced Series A warrants 12,391 @ $6.50 as of 2026-03-31.")
++ 0.005307*MAX(DS25-0.292,0)/DS25 + N("Series B warrants 5,307 @ $0.292 — deep ITM.")
+,3)
+
+================================================================================
+ESTIMATED CONSISTENT FORMULAS (correcting for date mismatches)
+================================================================================
+
+If you require INTERNALLY CONSISTENT formulas (common and warrants at same
+moment), the best we can do with published data:
+
+--- As of ~2026-03-31 (reconciled) ---
+Common:        39.422326  (10-Q balance sheet, Mar 31)
+Pre-funded:    28.315610  (10-Q warrant table, Mar 31)
+Stapled:       63.213672  (10-Q, Mar 31 — unchanged)
+Strat. advisor: 4.428467  (10-Q, Mar 31)
+Options:        1.855482  (10-Q, Mar 31, wavg $9.80)
+Repriced A:     0.012391  (10-Q, Mar 31, @ $6.50)
+Series B:       0.005307  (10-Q, Mar 31, @ $0.292)
+→ Fully diluted at any DS25>>0: 39.422 + 63.214*treasury + 28.316 + 4.428
+  + options_treasury + small_warrants_treasury ≈ 137.4M (at low prices)
+
+--- Estimated as of ~2026-05-08 (extrapolated from May 8 common) ---
+Common incr from Mar 31 to May 8: 42.322168 - 39.422326 = 2.899842M
+Assume proportional PF/SA exercises (based on remaining ratio):
+  PF_remaining_ratio = 28.315610/(28.315610+4.428467) = 0.8648
+  SA_remaining_ratio = 4.428467/(28.315610+4.428467) = 0.1352
+Est. PF exercised: 2.899842 * 0.8648 ≈ 2.508M
+Est. SA exercised: 2.899842 * 0.1352 ≈ 0.392M
+Est. PF remaining: 28.315610 - 2.508 = ~25.808M
+Est. SA remaining: 4.428467 - 0.392 = ~4.036M
+
+  NOTE: This is an ESTIMATE. Actual exercise split between PF and SA is
+  unknown. The proportional assumption may be wrong if one holder class
+  exercises faster than the other.
+
+--- Beyond May 8 (Jun 1, Jun 15, Jul 1) ---
+  No new filings provide share count or warrant data.  Carry May 8 figures
+  with a note that additional exercises are likely but unverifiable.
+
+================================================================================
+CAVEATS & NOTES
+================================================================================
+
+1. DATE MISMATCH: The 10-K (filed Mar 31) reports common shares as of Mar 24
+   but warrants/options only as of Dec 31.  The 10-Q (filed May 14) reports
+   common as of May 8 but warrants/options only as of Mar 31.  At EVERY
+   reference date, the common count is temporally AHEAD of the warrant count,
+   causing double-counting of exercised shares.  The "Estimated Consistent
+   Formulas" section above provides adjusted figures.
+
+2. PRE-FUNDED & STRATEGIC ADVISOR = DE-FACTO COMMON: Both have $0.0001
+   strike.  The company itself includes them in BASIC EPS (10-K p.F-12,
+   10-Q p.F-18).  For any DS25 >> $0.0001, the treasury method yields
+   essentially 100% of these as incremental shares.
+
+3. BASELINE ERRATA:
+   - Strategic advisor: 6,013,675 → 6,321,367 (corrected in 10-K)
+   - Pre-funded at Dec 31: 37,717,312 (not 37,371,158)
+   - Repriced warrants: 328,196 → 12,391 remaining (rest now common)
+   - Options: 1,785,495 was only the $6.41 bucket; total is 1,875,482
+     with wavg strike $9.76, not $6.41
+   - The baseline omitted Series B warrants (5,307 @ $0.292) which are
+     deep ITM and material at most price levels
+
+4. STAPLED WARRANTS: 63,213,672 at $9.75.  NO exercises detected in any
+   filing (unchanged from Dec 31 through Mar 31).  The stock price needs
+   to exceed $9.75 for these to be ITM.
+
+5. NO NEW INSTRUMENTS: Zero new dilutive securities issued between Jan 27
+   and Jul 1, 2026, based on all 8-Ks, 10-Q, and ownership filings reviewed.
+
+6. ATM: $236.6M shelf active but ZERO sales in Q1 2026.  No data on Q2
+   sales (next 10-Q would cover this).
+
+7. UNVERIFIABLE: Post-May-8 common share count.  Pre-funded/SA warrant
+   exercise split between Mar 31 and May 8.  Any Q2 2026 ATM sales.
+   Any option grants between Mar 31 and Jul 1 (employment agreements
+   in May 2026 mention future equity grants but none quantified).
+
+================================================================================

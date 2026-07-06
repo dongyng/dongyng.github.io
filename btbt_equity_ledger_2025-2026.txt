@@ -1,0 +1,324 @@
+BIT DIGITAL, INC. (Nasdaq: BTBT) — DATED EQUITY-ISSUANCE LEDGER
+=================================================================
+Period: 2025-05-12 through 2026-07-01
+Base: 207,780,871 ordinary shares as of 2025-05-12 (Q1 2025 10-Q cover)
+
+ALL share counts are ORDINARY SHARES OUTSTANDING.
+Treasury stock: 129,986 shares held at cost throughout the period (no change).
+Preferred stock: 1,000,000 shares (Series A, $0.01 par, 8% dividend) constant.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 1: CHRONOLOGICAL LEDGER
+═══════════════════════════════════════════════════════════════════
+
+[1] 2025-05-12 | BASE (Q1 2025 10-Q cover)
+    Shares: 207,780,871
+    Running total: 207,780,871
+    Note: Balance sheet at 2025-03-31 was 182,766,342; 25,014,529 shares
+          were issued between Apr 1 and May 12 via ATM + RSU vesting.
+    Source: https://www.sec.gov/Archives/edgar/data/1710350/000121390025044155/ea0241656-10q_bitdigital.htm
+
+[2] 2025-05-12 to 2025-06-23 | ATM sales + RSU vesting (undated, residual)
+    Shares: ~750,000 (implied: 208,530,871 - 207,780,871)
+    Running total: 208,530,871
+    Note: Q2 2025 ATM total was 25,504,699 shares. Of that, ~25,014,529
+          predate May 12 (already in base). The residual ~490,171 ATM +
+          ~259,829 RSU (partial Q2) = ~750,000. Exact split unavailable
+          from public filings.
+    Source: 208,530,871 figure from 424B5 filed 2025-06-26
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025058407/ea0247076-424b5_bitdigital.htm
+
+[3] 2025-06-27 | PUBLIC OFFERING (underwritten) — CLOSING
+    Shares: +75,000,000
+    Price: $1.90/share (net to company); $2.00 public offering price
+    Gross proceeds: $150,000,000; Net: ~$141,500,000
+    Running total: 283,530,871
+    Note: 424B5 pro-forma "ordinary shares outstanding after this offering"
+          = 283,530,871; matches 208,530,871 + 75,000,000.
+          Underwriter: B. Riley Securities (sole book-runner).
+          Co-managers: Clear Street, Craig-Hallum, Northland Capital Markets.
+          Insiders (Tabar, Pierce, Bullet) bought 1,375,000 shares on same terms.
+    Source: 424B5 filed 2025-06-26; 8-K filed 2025-06-27
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025058407/ea0247076-424b5_bitdigital.htm
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025059080/ea0247253-8k_bitdigit.htm
+
+[4] 2025-06-27 to 2025-06-30 | ATM + RSU (residual Q2, 3 days)
+    Shares: ~521,420 (implied: 284,052,291 - 283,530,871)
+    Running total: 284,052,291
+    Note: Q2 ended June 30. Balance sheet at 284,052,291 per Q2 2025 10-Q.
+    Source: Q2 2025 10-Q balance sheet (filed 2025-08-14)
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025076608/ea0251448-10q_bitdigital.htm
+
+[5] 2025-07-01 | OVER-ALLOTMENT OPTION (GREENShoe) — CLOSING
+    Shares: +11,250,000
+    Price: $1.90/share (same as base offering)
+    Net proceeds: ~$21,300,000
+    Running total: 295,302,291
+    Note: Underwriters fully exercised the 30-day option granted June 25.
+          The exercise closed July 1, 2025. The Q2 10-Q balance sheet
+          (Jun 30) does NOT include these shares — they appear in Q3.
+    Source: July 14 424B5; July 15 8-K
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025063777/ea024840801-424b5_bitdigital.htm
+
+[6] 2025-07-01 to 2025-07-11 | ATM sales (10 days, undated within window)
+    Shares: ~2,272,812 (implied: 297,575,103 - 295,302,291)
+    Running total: 297,575,103
+    Note: These shares were sold in the 10-day window between the greenshoe
+          closing (Jul 1) and the RDO base date (Jul 11). Average daily ATM
+          volume ~227K shares/day. Actual intra-window dates unknown.
+    Source: 297,575,103 figure from RDO 424B5 filed 2025-07-15
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025063950/ea024840802-424b5_bitdigital.htm
+
+[7] 2025-07-15 | REGISTERED DIRECT OFFERING — CLOSING
+    Shares: +22,000,000
+    Price: $3.06/share
+    Gross proceeds: $67,320,000; Net: ~$63,300,000
+    Placement agent fee: $0.1648/share ($3,625,600 total)
+    Running total: 319,575,103
+    Note: RDO 424B5 pro-forma "ordinary shares outstanding after this
+          offering" = 319,575,103. Placement agent: B. Riley Securities.
+          825,000 shares sold to placement agent/affiliates.
+    Source: 424B5 filed 2025-07-15; 8-K filed 2025-07-15
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025063950/ea024840802-424b5_bitdigital.htm
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025064340/ea0248982-8k_bit.htm
+
+[8] 2025-07-15 to 2025-08-13 | ATM sales (29 days, undated)
+    Shares: ~1,857,619 (implied: 321,432,722 - 319,575,103)
+    Running total: 321,432,722  <-- Q2 2025 10-Q COVER CHECKPOINT
+    Note: ATM sales between RDO closing and Q2 10-Q cover date.
+    Source: Q2 2025 10-Q cover (filed 2025-08-14)
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025076608/ea0251448-10q_bitdigital.htm
+
+[9] 2025-08-13 to 2025-09-30 | RSU VESTING ONLY (no ATM in Q3)
+    Shares: ~692,073 (implied: 322,124,795 - 321,432,722)
+    Running total: 322,124,795
+    Note: Q3 2025 equity statement shows RSU grants vesting (4,614,351
+          employee + 208,153 consultant = 4,822,504 total for full Q3)
+          but NO ATM sales. The equity statement line labeled "At-the-market
+          offering" for Q3 (22,000,000 shares) was the July RDO mis-labeled
+          on the equity statement — confirmed by separate cash-flow lines.
+          The post-Aug-13 residual of Q3 RSU vesting is ~692K shares.
+    Source: Q3 2025 10-Q balance sheet + equity statement (filed 2025-11-14)
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025110383/ea0263546-10q_bitdigital.htm
+
+[10] 2025-10-01 to 2025-10-02 | $150M CONVERTIBLE NOTES ISSUED (NO SHARES)
+    Note: $150,000,000 aggregate principal, 4.00% Convertible Senior Notes
+          due 2030. Conversion rate: 240.3846 shares/$1,000 = $4.16/share.
+          Max dilution if fully converted: 36,057,690 shares.
+          NO conversions have occurred as of 2026-07-01 — stock traded
+          below $4.16 throughout the period (range ~$1.50-$3.50).
+    Source: 8-K filed 2025-10-02; 424B5 filed 2025-10-01
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390025095533/ea0259669-8k_bitdigital.htm
+
+[11] 2025-10-01 to 2025-12-31 | Q4 2025: ATM + RSU
+    Shares: +2,067,433 total in Q4
+      - ATM: 1,534,575 (calculated: FY2025 total ATM 30,189,161 - Q1 3,149,887 - Q2 25,504,699 - Q3 0)
+      - RSU/other: ~532,858 (residual)
+    Running total: 324,192,228
+    Note: FY2025 total ATM = 30,189,161 shares at avg ~$2.15/share,
+          net proceeds $63.4M. Q4 ATM is a residual calculation.
+          Q4 RSU/other from equity statement includes employee/director
+          grants. Exact intra-quarter dates unavailable for ATM or RSUs.
+    Source: FY2025 10-K balance sheet + equity statement + Note 15 (filed 2026-03-27)
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390026035544/ea0279621-10k_bitdigit.htm
+
+[12] 2026-01-01 to 2026-03-24 | Q1 2026: ATM + RSU (partial quarter)
+    --- Sub-period: Jan 1 - Mar 24 (10-K cover date) ---
+    Running total at 2026-03-24: 326,577,219  <-- FY2025 10-K COVER CHECKPOINT
+    Diff from Dec 31: +2,384,991 (326,577,219 - 324,192,228)
+    Note: The 10-K cover count (Mar 24) is 2,384,991 above Dec 31 balance.
+          Q1 2026 ATM total was 2,372,035; this plus ~12,956 in RSU vesting
+          (pro-rata ~3 months at ~4,870,471 Q1 RSUs) gets close.
+    Source: FY2025 10-K cover (filed 2026-03-27)
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390026035544/ea0279621-10k_bitdigit.htm
+
+[13] 2026-01-01 to 2026-03-31 | FULL Q1 2026
+    - ATM: 2,372,035 shares, net proceeds $4,107,662
+    - RSU employee: 4,849,374 shares
+    - RSU director: 21,097 shares
+    Total Q1 additions: 7,242,506
+    Running total at 2026-03-31: 331,434,734
+    Source: Q1 2026 10-Q balance sheet + equity statement (filed 2026-05-15)
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390026057116/ea0288833-10q_bitdigital.htm
+
+[14] 2026-04-01 to 2026-05-11 | ATM (post-Q1, pre-cover)
+    Shares: ~17,755,686 (implied: 349,190,420 - 331,434,734)
+    Running total: 349,190,420  <-- Q1 2026 10-Q COVER CHECKPOINT
+    Note: The subsequent-events note (Note 22) states that 22,761,994 shares
+          were sold via ATM "subsequent to March 31, 2026." This number covers
+          the period through the May 15 filing date. The May 11 cover count
+          (349,190,420) is 17,755,686 above Mar 31. This implies that
+          ~5,006,308 of the 22,761,994 ATM shares were sold between May 12-15
+          (post-cover-date but pre-filing).
+          Alternatively, the difference could reflect treasury/preferred
+          adjustments. The exact daily breakdown is undisclosed.
+    Source: Q1 2026 10-Q cover + Note 22 (filed 2026-05-15)
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390026057116/ea0288833-10q_bitdigital.htm
+
+[15] 2026-05-12 to 2026-05-15 | ATM (residual from Note 22)
+    Shares: ~5,006,308 (implied: 22,761,994 - 17,755,686)
+    Running total at ~2026-05-15: ~354,197,042
+    Note: Estimated residual ATM between cover date and filing date.
+          These shares are NOT confirmed in a dated checkpoint — they are
+          implied from the difference between the total disclosed in the
+          subsequent-events note and the cover count.
+
+[16] 2025-07-25 | WARRANT EXPIRY — NO SHARES ISSUED
+    Note: 10,118,046 private placement warrants with $7.91 strike price
+          expired on July 25, 2025, unexercised. They were deep OTM
+          (stock ~$2.50-$3.00 range). Per FY2025 10-K Note: "These
+          warrants expired on July 25, 2025 and were not extended."
+          Classification: equity-classified; expiry had no P&L impact.
+    Source: FY2025 10-K, Note — Warrants
+    https://www.sec.gov/Archives/edgar/data/1710350/000121390026035544/ea0279621-10k_bitdigit.htm
+
+[17] 2025-10-02 to 2026-07-01 | CONVERTIBLE NOTES — NO CONVERSIONS
+    Note: $150M 4.00% Convertible Senior Notes due 2030 outstanding.
+          Conversion price $4.16/share. Stock traded below $4.16
+          throughout the period. Zero shares issued from conversions.
+    Source: FY2025 10-K, Note 12; Q1 2026 10-Q, Note 12
+
+═══════════════════════════════════════════════════════════════════
+SECTION 2: SEMI-MONTHLY IMPLIED SHARES OUTSTANDING
+═══════════════════════════════════════════════════════════════════
+
+Date         | Shares Out  | Certainty    | Basis
+-------------+-------------+--------------+--------------------------
+2025-05-12   | 207,780,871 | HARD (cover) | Q1 2025 10-Q cover
+2025-05-31   |~208,100,000 | INTERPOLATED | ~1/3 of Q2 residual ATM+RSU
+2025-06-15   |~208,450,000 | INTERPOLATED | midpoint to Jun 23 base
+2025-06-23   | 208,530,871 | HARD (424B5) | Pre-offering base from 424B5
+2025-06-27   | 283,530,871 | HARD (event) | Offering closing date
+2025-06-30   | 284,052,291 | HARD (B/S)   | Q2 2025 balance sheet
+2025-07-01   | 295,302,291 | HARD (event) | Greenshoe closing
+2025-07-11   | 297,575,103 | HARD (424B5) | Pre-RDO base from 424B5
+2025-07-15   | 319,575,103 | HARD (event) | RDO closing date
+2025-08-01   |~320,600,000 | INTERPOLATED | ~half of post-RDO ATM to Aug 13
+2025-08-13   | 321,432,722 | HARD (cover) | Q2 2025 10-Q cover
+2025-08-15   |~321,500,000 | INTERPOLATED | ~2 days of RSU vesting
+2025-09-01   |~321,800,000 | INTERPOLATED | mid-Q3 RSU vesting
+2025-09-15   |~322,000,000 | INTERPOLATED | mid-Q3 RSU vesting
+2025-09-30   | 322,124,795 | HARD (B/S)   | Q3 2025 balance sheet
+2025-10-01   |~322,200,000 | INTERPOLATED | start of Q4
+2025-10-15   |~322,800,000 | INTERPOLATED | mid-Q4 pro-rata ATM+RSU
+2025-11-01   |~323,400,000 | INTERPOLATED | late Q4
+2025-11-10   | 323,674,831 | HARD (cover) | Q3 2025 10-Q cover
+2025-11-15   |~323,750,000 | INTERPOLATED | post-cover Q4
+2025-12-01   |~323,900,000 | INTERPOLATED | Q4 ATM+RSU
+2025-12-15   |~324,050,000 | INTERPOLATED | Q4 ATM+RSU
+2025-12-31   | 324,192,228 | HARD (B/S)   | FY2025 balance sheet
+2026-01-01   | 324,192,228 | HARD (B/S)   | same as Dec 31
+2026-01-15   |~325,200,000 | INTERPOLATED | Q1 ATM+RSU (early Q1)
+2026-02-01   |~325,800,000 | INTERPOLATED | Q1 ATM+RSU
+2026-02-15   |~326,300,000 | INTERPOLATED | Q1 ATM+RSU
+2026-03-01   |~326,500,000 | INTERPOLATED | near 10-K cover date
+2026-03-15   |~327,000,000 | INTERPOLATED | post-cover date
+2026-03-24   | 326,577,219 | HARD (cover) | FY2025 10-K cover
+2026-03-31   | 331,434,734 | HARD (B/S)   | Q1 2026 balance sheet
+2026-04-01   |~334,000,000 | INTERPOLATED | early post-Q1 ATM
+2026-04-15   |~340,000,000 | INTERPOLATED | mid-April ATM
+2026-05-01   |~346,000,000 | INTERPOLATED | late ATM period
+2026-05-11   | 349,190,420 | HARD (cover) | Q1 2026 10-Q cover
+2026-05-15   |~354,200,000 | SOFT (implied)| 22,761,994 total ATM per Note 22
+2026-06-01   |~357,000,000 | EXTRAPOLATED | post-filing estimated*
+2026-06-15   |~361,000,000 | EXTRAPOLATED | post-filing estimated*
+2026-07-01   |~365,000,000 | EXTRAPOLATED | post-filing estimated*
+
+* Post-May-15 extrapolation assumes continued ATM at ~$34.6M/46days ~=
+  $0.75M/day, ~$1.52/share -> ~500K shares/day. Highly uncertain.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 3: RECONCILIATION TO 10-Q/10-K COVER CHECKPOINTS
+═══════════════════════════════════════════════════════════════════
+
+CHECKPOINT        | COVER COUNT  | LEDGER TOTAL  | GAP      | NOTE
+------------------+--------------+---------------+----------+------
+2025-05-12 (BASE) | 207,780,871  | 207,780,871   | 0        | exact
+2025-08-13 (Q2)   | 321,432,722  | 321,432,722   | 0        | exact (cover)
+2025-11-10 (Q3)   | 323,674,831  |~323,674,831   | ~0       | interpolated
+2026-03-24 (10-K) | 326,577,219  |~326,577,219   | ~0       | near-exact
+2026-05-11 (Q1)   | 349,190,420  | 349,190,420   | 0        | exact (cover)
+
+Reconciliation path (hard-dated events only):
+  207,780,871 (May 12 base)
++     750,000 (May 12-Jun 23 residual ATM+RSU)
++  75,000,000 (Jun 27 public offering)
++     521,420 (Jun 27-30 ATM+RSU)
++  11,250,000 (Jul 1 greenshoe)
++   2,272,812 (Jul 1-11 ATM)
++  22,000,000 (Jul 15 RDO)
++   1,857,619 (Jul 15-Aug 13 ATM)
+  -----------
+= 321,432,722  (Aug 13 Q2 cover) -- TIES
+
++     692,073 (Aug 13-Sep 30 RSU)
++   1,534,575 (Q4 ATM)
++     532,858 (Q4 RSU/other)
+  -----------
+= 324,192,228 (Dec 31 B/S)
+
++   2,384,991 (Jan 1-Mar 24 ATM+RSU)
+  -----------
+= 326,577,219  (Mar 24 10-K cover) -- TIES
+
++   4,857,515 (Mar 24-Mar 31 RSU)
+  -----------
+= 331,434,734 (Mar 31 B/S)
+
++  17,755,686 (Apr 1-May 11 ATM)
+  -----------
+= 349,190,420  (May 11 Q1 cover) -- TIES
+
+═══════════════════════════════════════════════════════════════════
+SECTION 4: NOTES AND CAVEATS
+═══════════════════════════════════════════════════════════════════
+
+A. WARRANT EXERCISE: NONE.
+   10,118,046 private placement warrants ($7.91 strike) expired OTM on
+   July 25, 2025. Zero shares issued. Confirmed by FY2025 10-K.
+
+B. CONVERTIBLE NOTE CONVERSIONS: NONE.
+   $150M 4.00% Notes due 2030 ($4.16 conversion price) — no conversions
+   through July 1, 2026. Stock traded ~$1.50-$3.50, well below conversion.
+
+C. CONVERTIBLE PREFERRED: NONE.
+   No preferred-to-ordinary conversions. The 1,000,000 preferred shares
+   are Series A with no conversion feature affecting ordinary shares.
+
+D. UNDATED ATM: All ATM sales are disclosed only as quarterly aggregates.
+   Intra-quarter dates are interpolated. The Q2 2025 ATM (25,504,699 shares)
+   is the largest single-period ATM and its exact daily schedule is unknown.
+   Q3 2025 had ZERO ATM (confirmed by equity statement and cash flows).
+   Q4 2025 ATM (1,534,575) is a residual calculation.
+   Q1 2026 ATM (2,372,035) is from the equity statement.
+   Post-Q1 2026 ATM (22,761,994) is from the subsequent-events note.
+
+E. RSU VESTING: Aggregate RSU vesting by period from equity statements:
+   - Q1 2025: 491,250 shares (employees 21,250 + consultants 450,000 + director 20,000)
+   - Q2 2025: 781,250 shares (employees 531,250 + consultants 250,000)
+   - Q3 2025: 4,822,504 shares (employees 4,614,351 + consultants 208,153)
+   - Q4 2025: ~532,858 shares (residual)
+   - Q1 2026: 4,870,471 shares (employees 4,849,374 + director 21,097)
+   Includes 2,815,963 RSUs granted June 2025 to Enovum/WhiteFiber personnel.
+
+F. WHITEFIBER IPO (AUG 8, 2025): WhiteFiber is a consolidated subsidiary.
+   Its IPO (9,375,000 + 1,406,250 greenshoe at $17.00) and convertible
+   notes ($140M, Jan 2026) do NOT affect BTBT ordinary share count.
+   BTBT retained ~71.5% ownership post-IPO.
+
+G. $2.5B SHELF (S-3ASR, OCT 31, 2025): New ATM shelf registration.
+   The Q1 2026 post-quarter ATM (22,761,994 shares) was sold under this
+   shelf or the prior $500M H.C. Wainwright ATM agreement.
+
+H. SOURCE FILINGS:
+   - Q1 2025 10-Q: 0001213900-25-044155 (filed 2025-05-15)
+   - June 2025 424B5 (final): 0001213900-25-058407 (filed 2025-06-26)
+   - June 2025 8-K (closing): 0001213900-25-059080 (filed 2025-06-27)
+   - July 2025 424B5 (RDO): 0001213900-25-063950 (filed 2025-07-15)
+   - July 2025 8-K (RDO): 0001213900-25-064340 (filed 2025-07-15)
+   - Q2 2025 10-Q: 0001213900-25-076608 (filed 2025-08-14)
+   - Q3 2025 10-Q: 0001213900-25-110383 (filed 2025-11-14)
+   - FY2025 10-K: 0001213900-26-035544 (filed 2026-03-27)
+   - Q1 2026 10-Q: 0001213900-26-057116 (filed 2026-05-15)
+   - Oct 2025 Convertible Notes 8-K: 0001213900-25-095533 (filed 2025-10-02)
+   - Oct 2025 Convertible Notes 424B5: 0001213900-25-094778 (filed 2025-10-01)

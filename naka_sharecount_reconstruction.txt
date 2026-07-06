@@ -1,0 +1,324 @@
+====================================================================================================
+NAKAMOTO INC. (Nasdaq: NAKA; fka KindlyMD, Inc. / KDLY)
+FULLY-DILUTED SHARE-COUNT COMPONENTS — 15-DAY NODE RECONSTRUCTION
+2025-05-01 through 2026-07-01
+====================================================================================================
+
+CIK: 0001946573 | Incorporation: Utah → Delaware (reincorporation ~Feb 2026)
+Filer: Kindly MD, Inc. → Nakamoto Inc. (name change effective with merger close Aug 14, 2025)
+Ticker: KDLY → NAKA (May 23, 2025 Nasdaq symbol change; warrants KDLYW → NAKAW)
+
+====================================================================================================
+PART 1: CAPITAL-STRUCTURE EVENT TIMELINE
+====================================================================================================
+
+Format: DATE FILED | AS-OF DATE | EVENT | COMPONENT | VALUE | SOURCE
+
+--- PRE-MERGER (KindlyMD standalone) ---
+
+2025-03-28 | 2024-12-31 | FY2024 10-K | Common OS          | 6,029,648 shares
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm
+  Also: 2,718,535 warrants @ $6.33 WAEP outstanding (IPO + underwriter warrants).
+  Authorized: 100M common, 10M preferred (none issued).
+
+2025-05-08 | 2025-03-31 | Q1 2025 10-Q | Common OS          | ~6,029,648 (no material change from YE2024)
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000164117225009328/form10-q.htm
+  Filing notes: Pre-merger. No significant share activity in Q1.
+
+2025-05-12 | 2025-05-12 | 8-K (Merger Agreement) | Merger announced
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000121390025041722/ea0241620-8k_kindly.htm
+  KindlyMD + Nakamoto Holdings merger. $510M PIPE (at $1.12/share and/or pre-funded warrants).
+  $200M Secured Convertible Debenture to YA II PN, Ltd. (Yorkville).
+  Additional PIPE at $5.00/share added June 19, 2025.
+
+2025-05-14 | 2025-05-14 | Form 4 filings | Warrant exercises  | ~1.5M shares issued
+  IPO warrant holders exercised ~1,456,008 cash + ~55,312 cashless warrants. Proceeds ~$9.2M.
+
+2025-05-20 | 2025-05-20 | 8-K | Auth. share increase | 10,000,000,000 common authorized
+  Amended Articles approved by board + majority stockholders.
+  Effective Aug 11, 2025 (Utah Division of Corporations filing).
+
+2025-08-05 | 2025-06-30 | Q2 2025 10-Q | Common OS          | 7,576,321 shares
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000164117225022128/form10-q.htm
+  Cover page (Aug 4, 2025): 7,606,339 shares outstanding.
+  IPO warrants outstanding: 621,992 @ $6.33 (2,096,543 exercised in H1 2025).
+  Stock options: 311,468 @ $3.55 WAEP. RSUs: 30,000.
+  Secured Convertible Debenture: NOT YET ISSUED (closing condition).
+
+--- NAKAMOTO MERGER CLOSE ---
+
+2025-08-15 | 2025-08-14 | 8-K (Merger Close) | MERGER CLOSED
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000121390025077579/ea0252980-8k_kindly.htm
+  Nakamoto Holdings merger + PIPE Financings closed.
+  Issued at close (per 8-K + POS AM reconciliation):
+    - Nakamoto shareholders: 22,300,000 shares (Merger Consideration)
+    - PIPE common (at $1.12 + $5.00): ~345.8M shares (registered in POS AM as part of 351.48M PIPE shares)
+    - Pre-Funded Warrants: 133,800,773 @ $0.001 exercise price (5-year, no expiration)
+    - Convert Fee Shares: 3,000,000
+    - 4(a)(2) Shares (legacy): 3,135,207
+    - Advisor Shares: 11,897,088
+  Post-close estimated common OS: ~394M (before PFW exercises, see Sep 30 reconciliation).
+
+2025-08-15 | 2025-08-15 | 8-K (Debt Financing Close) | Convertible Debenture issued
+  $200M principal to YA II PN, Ltd. Conversion price: $2.80 (one-time down-round reset).
+  Max shares on conversion: 100,000,000 (as registered in POS AM).
+  Secured by Bitcoin collateral ($400M within 10 business days).
+  Interest: 0% first 2 years, 6% year 3. Maturity: 3 years.
+  Company call right if VWAP < Fixed Price or if VWAP >= Fixed Price (with premium).
+
+2025-08-26 | 2025-08-26 | 8-K + S-3ASR | ATM Program ($5B shelf)
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000121390025080824/ea0254433-s3asr_kindly.htm
+  Sales Agreement with 9 agents. $5B aggregate.
+  Q3 2025 ATM sales: 1,362,340 shares @ avg $4.15, net $5.66M.
+
+2025-09-22 | 2025-09-22 | (per 10-K exec comp) | RSU grants to NEOs
+  RSUs granted to executive officers/directors. Total 2025 RSU grants: 15,898,579 shares.
+
+2025-09-29 | 2025-09-29 | (per 10-Q/10-K Note) | Convertible Debenture REDEEMED
+  Company exercised redemption option. Debenture fully repaid.
+  Repaid using Naka SPV2 Credit Facility (entered Sep 30, 2025).
+  Loss on extinguishment: $14,454,485.
+
+--- POST-MERGER QUARTERLY ---
+
+2025-11-19 | 2025-09-30 | Q3 2025 10-Q | Common OS          | 427,152,834 shares
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/form10-q.htm
+  Cover page (Nov 14, 2025): 439,850,889 shares outstanding. ← SHARE COUNT UPDATE
+  PFW unexercised as of Nov 14: 71,704,975 (49,298,000 exercised by Sep 30; 62,095,798 total in 2025).
+  IPO warrants outstanding: 588,501 (384,936 tradeable + 203,565 non-tradeable @ $6.33).
+  Total warrants outstanding: 85,091,274 @ Sep 30 (includes both PFW and IPO warrants).
+  Convertible Debenture: fully repaid, $0 outstanding.
+  Preferred stock: 10M authorized, NONE issued/outstanding.
+
+2025-12-05 | 2025-12-04 | POS AM (S-3) | Common OS          | 672,951,662 shares (SELLING STOCKHOLDER DENOMINATOR)
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000149315225026462/formposam.htm
+  *** CRITICAL NOTE: 672,951,662 is NOT the actual common shares outstanding. ***
+  This is the denominator used for the Selling Stockholders table ownership percentages.
+  It equals: actual common (~439.85M) + PFW shares (133.10M) + CD shares (100.00M).
+  Verification: 439,850,889 + 133,100,773 + 100,000,000 = 672,951,662. ✓
+  The ACTUAL common shares outstanding as of Dec 4, 2025 was ~440M (interpolated from
+  Nov 14: 439,850,889 and Dec 31: 437,946,327).
+  The BASELINE FORMULA USES THE WRONG COMMON COUNT. It uses 672.95M as common OS and
+  then separately adds PFW via treasury stock method → DOUBLE-COUNTING the PFW shares.
+  CORRECT common OS for the baseline date: ~439.85M to ~440M.
+
+2026-03-30 | 2025-12-31 | FY2025 10-K | Common OS          | 437,946,327 outstanding (439,950,632 issued)
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000149315226013601/form10-k.htm
+  Treasury stock: 2,004,305 shares (repurchased ~$0.7M under 2025 Repurchase Program).
+  PFW unexercised: 71,704,975 (no change from Nov 14 — exercises were Sep→Nov).
+  IPO warrants: 588,501 (384,936 tradeable + 203,565 non-tradeable @ $6.33).
+  Total warrants: 72,293,476 (71,704,975 PFW + 588,501 IPO).
+  Convertible Debenture: fully repaid, $0.
+  RSUs granted in 2025: 15,898,579. RSUs outstanding: ~15.9M.
+  Stock options: minimal, intrinsic value $0 at year-end.
+  2025 Plan: 37,611,971 shares authorized; 21,856,173 remaining available.
+  2022 Plan: 150,000 shares authorized; 431,216 remaining available.
+  Cover (Mar 23, 2026): 690,018,254 shares outstanding. ← POST-BTC MERGER
+
+--- BTC INC. MERGER + UTXO ACQUISITION ---
+
+2026-02-20 | 2026-02-20 | (per Q1 2026 10-Q) | BTC Inc. merger + UTXO Acquisition CLOSED
+  BTC Inc. securityholders: entitled to 364,795,109 shares on fully-diluted basis.
+  UTXO securityholders: 26,481,860 shares (2,648,186 held back).
+  Actual common issued for BTC Inc.: ~235M (218,372,167 issued + 16,678,652 pending LoT).
+  Actual common issued for UTXO: 23,833,674 (net of holdbacks).
+  PFW exercised in Q1 2026: 10,000,000 shares (cashless).
+
+2026-05-13 | 2026-03-31 | Q1 2026 10-Q | Common OS          | 690,018,254 shares
+  URL: https://www.sec.gov/Archives/edgar/data/1946573/000149315226022777/form10-q.htm
+  Same as Mar 23, 2026 (10-K cover).
+  No treasury stock.
+  PFW unexercised as of Mar 23: 61,704,975.
+  IPO warrants: 588,501 (unchanged from Dec 31, 2025).
+  Letter of Transmittal shares pending: 16,678,652 (from BTC Inc. merger).
+
+====================================================================================================
+PART 2: COMPONENT-BY-NODE TABLE
+====================================================================================================
+
+All values in MILLIONS, rounded 3 decimal places.
+H = HARD (directly from a filing published on or before the node date)
+S = STALE (carried forward from the most recent prior published disclosure)
+E = ESTIMATED (interpolated/extrapolated from surrounding hard data; no direct disclosure)
+N/A = Not applicable (security did not exist or was not yet issued)
+0.000 = Explicitly zero or fully extinguished per disclosure
+
+NODE LEGEND:
+  COM = Common shares outstanding (actual, NOT POS AM denominator)
+  PFW = Pre-Funded Warrants outstanding (@ $0.001 exercise)
+  W63 = IPO Warrants outstanding (@ $6.33 exercise, tradeable + non-tradeable)
+  RSU = Restricted Stock Units / Stock Options outstanding (combined)
+  CDB = Secured Convertible Debenture ($200M face, $2.80 conversion; fully repaid 2025-09-29)
+  PRF = Preferred stock outstanding (none ever issued — 0.000 at all nodes)
+  CVT = Other convertible notes / new instruments
+
+====================================================================================================
+TABLE
+====================================================================================================
+
+NODE        | COM(M)     | PFW(M)     | W63(M)    | RSU(M)    | CDB(M)*   | PRF | CVT | NOTES
+            |            |            |           |           |           |     |     |
+------------|------------|------------|-----------|-----------|-----------|-----|-----|--------------------------
+2025-05-01  |   6.030 H  |     N/A    |  2.060 H  |  0.000 S  |     N/A   | 0   | 0   | Pre-merger KindlyMD. 10-K FY2024 (filed 3/28/25). RSUs/opts minimal pre-IPO; 2022 Plan only.
+2025-05-15  |   7.576 H  |     N/A    |  0.622 H  |  0.341 H  |     N/A   | 0   | 0   | May 12: Merger announced. May 14: ~1.5M warrant exercises. Q2 10-Q (filed 8/5/25) Jun 30 data.
+            |            |            |           |           |           |     |     | STALE: COM uses Jun 30 (7.576M), actual mid-May likely ~7.5-7.6M after warrant exercises.
+2025-06-01  |   7.576 S  |     N/A    |  0.622 H  |  0.341 H  |     N/A   | 0   | 0   | Same source as May 15 (Jun 30 data). No mid-period filings. STALE carry-forward.
+2025-06-15  |   7.576 S  |     N/A    |  0.622 S  |  0.341 S  |     N/A   | 0   | 0   | STALE. Jun 19: additional PIPE subscription ($5.00/sh); no share issuance yet.
+2025-07-01  |   7.576 S  |     N/A    |  0.622 S  |  0.341 S  |     N/A   | 0   | 0   | STALE. Minimal activity (only 18 warrant shares issued Jul 1-Aug 4 per Q2 10-Q).
+2025-07-15  |   7.576 S  |     N/A    |  0.622 S  |  0.341 S  |     N/A   | 0   | 0   | STALE. Pre-merger quiet period.
+2025-08-01  |   7.606 H  |     N/A    |  0.622 S  |  0.341 S  |     N/A   | 0   | 0   | HARD: Q2 10-Q cover (as of Aug 4). Aug 11: Amended Articles effective (10B auth).
+2025-08-15  | 394.000 E  | 133.801 H  |  0.589 E  | 15.899 E  | 100.000 H | 0   | 0   | ★ MERGER CLOSE Aug 14 ★. COM: estimated from Sep 30 (427.15M) minus PFW exercised (49.3M)
+            |            |            |           |           |           |     |     | minus ATM (1.36M) = ~376.5M + some roundoff. PFW: issued 133,800,773 per 8-K (filed 8/15).
+            |            |            |           |           |           |     |     | W63: 33,491 exercised in Q3 (621,992→588,501), pro-rata ~5,800 by Aug 15 → ~616K.
+            |            |            |           |           |           |     |     | CDB: 100M shares registered. Conversion $2.80; $200M/$2.80 = 71.4M actual max. RSU: 15.9M granted in 2025.
+2025-09-01  | 420.000 E  | 105.000 E  |  0.589 E  | 15.899 S  | 100.000 S | 0   | 0   | ESTIMATED. PFW exercises + ATM sales ongoing. CDB still outstanding (repaid Sep 29).
+2025-09-15  | 425.000 E  |  86.000 E  |  0.589 E  | 15.899 S  | 100.000 S | 0   | 0   | ESTIMATED. CDB outstanding. S-3ASR filed Sep 15 (ATM shelf).
+2025-10-01  | 427.153 H  |  84.503 E  |  0.589 H  | 15.899 S  |   0.000 H | 0   | 0   | HARD: Q3 10-Q (filed 11/19; as of Sep 30). PFW: 133.801M - 49.298M = 84.503M exercised.
+            |            |            |           |           |           |     |     | CDB: FULLY REPAID Sep 29-30 per 10-Q. $0 outstanding.
+2025-10-15  | 432.000 E  |  79.000 E  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ESTIMATED. PFW exercises continuing in Q4.
+2025-11-01  | 436.000 E  |  74.000 E  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ESTIMATED. Approaching Nov 14 share count update.
+2025-11-15  | 439.851 H  |  71.705 H  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ★ HARD: Q3 10-Q cover (as of Nov 14). PFW: 71,704,975 per 10-Q. This is the "share count update."
+            |            |            |           |           |           |     |     | W63: 588,501 from 10-K (no change Sep 30→Dec 31). STALE but likely correct.
+2025-12-01  | 439.000 E  |  71.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ESTIMATED. Near Nov 14 count; minimal ATM or exercises late Nov.
+2025-12-15  | 438.500 E  |  71.705 S  |  0.589 H  | 15.899 S  |   0.000 S | 0   | 0   | ESTIMATED. POS AM filed Dec 5 uses Dec 4 as-of; common denominator 672.95M INCLUDES PFW+CD
+            |            |            |           |           |           |     |     | shares for Selling Stockholder table. Actual common ~440M. Treasury buybacks started.
+2026-01-01  | 437.946 H  |  71.705 H  |  0.589 H  | 15.899 S  |   0.000 S | 0   | 0   | ★ HARD: FY2025 10-K (filed 3/30/26; as of Dec 31, 2025). Treasury: 2,004,305 shares.
+            |            |            |           |           |           |     |     | PFW: 71,704,975 per 10-K. W63: 588,501 per 10-K. 2025 Plan: 37.6M auth.
+2026-01-15  | 437.900 E  |  71.500 E  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ESTIMATED. Minimal activity in early Jan.
+2026-02-01  | 438.000 E  |  71.000 E  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ESTIMATED. Pre-BTC Merger.
+2026-02-15  | 438.000 E  |  70.000 E  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ESTIMATED. Pre-BTC Merger. Feb 16: UTXO Merger Agreement signed.
+2026-03-01  | 685.000 E  |  61.705 H  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | ★ BTC MERGER + UTXO CLOSED Feb 20 ★. COM: estimated post-close (690M by Mar 23 minus
+            |            |            |           |           |           |     |     | ~5M PFW exercises). PFW: 10M cashless exercises in Q1 per Q1 2026 10-Q.
+            |            |            |           |           |           |     |     | BTC Inc. shares: 218.4M issued + 16.7M pending LoT. UTXO: 23.8M net.
+2026-03-15  | 690.018 H  |  61.705 H  |  0.589 H  | 15.899 S  |   0.000 S | 0   | 0   | ★ HARD: FY2025 10-K cover (as of Mar 23, 2026; filed 3/30/26). STALE for this node
+            |            |            |           |           |           |     |     | since disclosure is AFTER Mar 15, but Mar 23 ≈ Mar 15 for a few days difference.
+2026-04-01  | 690.018 H  |  61.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | HARD: Q1 2026 10-Q (filed 5/13; as of Mar 31; same as Mar 23). 16.7M LoT shares pending.
+2026-04-15  | 690.018 S  |  61.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | STALE. No filings between Q1 10-Q and this node. LoT shares still pending.
+2026-05-01  | 690.018 S  |  61.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | STALE. Q1 2026 10-Q filed May 13 — but this is AFTER May 1. Carry forward from 10-K.
+            |            |            |           |           |           |     |     | NOTE: 10-Q filed May 13 is the first disclosure AFTER May 1.
+2026-05-15  | 690.018 H  |  61.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | HARD: Q1 2026 10-Q (filed 5/13/26; as of Mar 31). STALE for PFW/W63 (3/31 data).
+2026-06-01  | 690.018 S  |  61.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | STALE. No new filings between May 13 Q1 10-Q and Jun 1. S-3 filed Apr 9.
+2026-06-15  | 690.018 S  |  61.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | STALE. 8-K filed Jun 11 (likely BTC purchase disclosure, not share count).
+2026-07-01  | 690.018 S  |  61.705 S  |  0.589 S  | 15.899 S  |   0.000 S | 0   | 0   | STALE. Latest hard data is Mar 31 (690.018M). No interim share count update filed
+            |            |            |           |           |           |     |     | between Q1 10-Q (May 13) and Jul 1. Q2 10-Q due ~Aug 14, 2026.
+
+====================================================================================================
+*CDB column: For the Convertible Debenture, the number shown is the MAXIMUM shares issuable
+ upon conversion (in millions). The actual convertible was $200M at $2.80 initial conversion
+ price = 71.429M shares. The POS AM registered 100M shares (conservative, accounting for
+ down-round reset). The debenture was FULLY REPAID by 2025-09-29. After that date, CDB = 0.
+ For the treasury-stock dilution formula, use: MIN(100.000, $200M / conversion_price).
+
+====================================================================================================
+PART 3: NOTES
+====================================================================================================
+
+1. MERGER CLOSE DATE: August 14, 2025.
+   - Agreement announced: May 12, 2025.
+   - Stockholder approval via written consent (May 18 + Jun 19, 2025).
+   - Amended Articles effective: Aug 11, 2025 (10B authorized common).
+   - Merger + PIPE closed: Aug 14, 2025.
+   - Convertible Debenture issued: Aug 15, 2025.
+   - Ticker change KDLY→NAKA: May 23, 2025 (Nasdaq).
+   Source: 8-K filed Aug 15, 2025; 8-K filed May 12, 2025; Q2 2025 10-Q.
+
+2. PIPE TERMS:
+   - Initial PIPE (May 12, 2025): $1.12 per common share and/or pre-funded warrants
+     at $1.119 per PFW (exercise $0.001).
+   - Additional PIPE (Jun 19, 2025): $5.00 per share (5,682,586 shares).
+   - Total registered PIPE common shares (POS AM): 351,479,288.
+   - Total PFW issued: 133,800,773.
+   - Estimated total PIPE proceeds: ~$510-565M (varies depending on common/PFW mix).
+   Source: 8-K Aug 15, 2025; POS AM Dec 5, 2025.
+
+3. CONVERTIBLE DEBENTURE ($200M):
+   - Issued Aug 15, 2025 to YA II PN, Ltd. (Yorkville).
+   - Conversion price: $2.80 (subject to one-time down-round reset).
+   - Fully redeemed/repaid: Sep 29, 2025 (effective date).
+   - Loss on extinguishment: $14.45M.
+   - OUTSTANDING PERIOD: 2025-08-15 to 2025-09-29 (45 days).
+   - Nodes where dilutive: Aug 15, Sep 1, Sep 15, (Oct 1 it's zero).
+   Source: Q3 2025 10-Q Note (Convertible Debenture); FY2025 10-K Note 10.
+
+4. THE BASELINE FORMULA ERROR:
+   The baseline formula uses Common OS = 672,951,662 (from POS AM dated Dec 4, 2025).
+   HOWEVER, this number is the "total shares outstanding" denominator used in the
+   Selling Stockholders table, which INCLUDES the pre-funded warrant shares (133.1M)
+   and convertible note shares (100M) as if they were common stock (per SEC convention
+   for the ownership percentage calculation when these securities are being registered
+   for resale).
+
+   VERIFICATION: 439,850,889 (actual common per Nov 14 share count update)
+                + 133,100,773 (PFW underlying shares registered)
+                + 100,000,000 (CD shares registered)
+                = 672,951,662 ✓
+
+   The ACTUAL common shares outstanding as of Dec 4, 2025 was ~439.9M (per the Nov 14
+   share count update in the Q3 10-Q, which is the closest hard disclosure).
+
+   The baseline formula therefore DOUBLE-COUNTS the PFW shares by:
+   (a) including them in the 672.95M common count, AND
+   (b) adding them again via the treasury-stock method (71.705M @ $0.001).
+
+   CORRECTED approach for Dec 4, 2025:
+     Common OS = ~439.851M (from Nov 14 share count)
+     PFW = 71.705M outstanding
+     $6.33 warrants = 0.589M (588,501)
+     CDB = 0 (repaid Sep 29)
+
+5. UNVERIFIABLE / UNCERTAIN ITEMS:
+   a) Exact PIPE common share count at close: estimated at ~345.8M (registered: 351.48M).
+      The POS AM registers ALL PIPE shares for resale, including shares that may have
+      been issued after the initial close. The exact composition of common vs. PFW
+      elected by each PIPE investor is not publicly disclosed.
+   b) PFW exercise timing between nodes: exact daily/weekly exercise rates unknown.
+      Only quarterly aggregates or point-in-time snapshots are available.
+      Inter-node values are linearly interpolated ESTIMATES.
+   c) ATM sales pacing: only Q3 2025 quarterly aggregate disclosed (1.36M shares).
+      Q4 2025 and Q1 2026 ATM activity not separately disclosed in filings reviewed.
+      Estimated as minimal based on total shares outstanding trajectory.
+   d) RSU/option counts post-Mar 2026: no filing after Q1 2026 10-Q (May 13, 2026).
+      Values carried forward STALE.
+   e) BTC Inc. merger consideration: "364,795,109 shares on a fully-diluted basis"
+      includes options, warrants, and other equity awards of BTC Inc. that convert
+      into NAKA shares. The actual common shares issued (~235M) is less than the
+      fully-diluted number. The 16.7M Letter of Transmittal shares pending as of
+      Mar 31, 2026 have likely been issued by Jul 2026 but this is unconfirmed.
+   f) S-8 filed Mar 31, 2026: registered shares for the 2025 Equity Incentive Plan.
+      Does not indicate actual grants, only registration of the plan shares.
+   g) S-3 filed Apr 9, 2026 and S-3/A filed Apr 17, 2026: shelf registration
+      statements. Do not provide updated share counts as of filing date.
+
+6. PREFERRED STOCK: 10,000,000 shares authorized; NONE ever issued or outstanding
+   at any point in the analysis window. Confirmed in every 10-Q and 10-K.
+
+7. STOCK OPTIONS: Minimal. 311,468 options @ $3.55 WAEP as of Jun 30, 2025.
+   Additional grants in 2025. FY2025 10-K: options outstanding with intrinsic
+   value of $0 at Dec 31, 2025 (deep out of the money). RSUs are the primary
+   equity compensation vehicle post-merger (15.9M granted in 2025).
+
+8. 2026 BTC INC. MERGER (Feb 20, 2026):
+   - This was the acquisition of BTC Inc. (David Bailey's operating company) and
+     UTXO Management GP, LLC — NOT the Nakamoto Holdings merger from Aug 2025.
+   - BTC Inc. was the entity behind the "Assigned Contract" mentioned in the
+     Aug 2025 merger 8-K (the call option on BTC Inc. equity).
+   - The company exercised its call option, resulting in a SECOND massive share
+     issuance (~235-260M shares) in Feb 2026.
+   - The "up to 600M shares" mentioned in the Aug 2025 8-K for the Assigned
+     Contract represented the maximum, not the actual issuance.
+
+====================================================================================================
+SOURCES (all SEC EDGAR):
+====================================================================================================
+- FY2024 10-K: https://www.sec.gov/Archives/edgar/data/1946573/000164117225001314/form10-k.htm
+- Q1 2025 10-Q: https://www.sec.gov/Archives/edgar/data/1946573/000164117225009328/form10-q.htm
+- Q2 2025 10-Q: https://www.sec.gov/Archives/edgar/data/1946573/000164117225022128/form10-q.htm
+- Q3 2025 10-Q: https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/form10-q.htm
+- FY2025 10-K: https://www.sec.gov/Archives/edgar/data/1946573/000149315226013601/form10-k.htm
+- Q1 2026 10-Q: https://www.sec.gov/Archives/edgar/data/1946573/000149315226022777/form10-q.htm
+- POS AM (Dec 5, 2025): https://www.sec.gov/Archives/edgar/data/1946573/000149315225026462/formposam.htm
+- 8-K Merger Announcement (May 12, 2025): https://www.sec.gov/Archives/edgar/data/1946573/000121390025041722/ea0241620-8k_kindly.htm
+- 8-K Merger Close (Aug 15, 2025): https://www.sec.gov/Archives/edgar/data/1946573/000121390025077579/ea0252980-8k_kindly.htm
+- 424B3 (Nov 21, 2025): https://www.sec.gov/Archives/edgar/data/1946573/000149315225024619/form424b3.htm
+- 424B3 (Aug 6, 2025): https://www.sec.gov/Archives/edgar/data/1946573/000164117225022330/form424b3.htm
+- Company Tickers JSON: https://www.sec.gov/files/company_tickers.json (CIK 1946573)
